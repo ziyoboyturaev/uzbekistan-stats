@@ -49,7 +49,7 @@ def main() -> None:
 
         out_path = RAW_DIR / row.section / f"{row.id}.json"
         out_path.parent.mkdir(parents=True, exist_ok=True)
-        out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+        out_path.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         time.sleep(DELAY_SECONDS)
 
     print(f"\nDownloaded {len(datasets) - len(failures)} of {len(datasets)} datasets.")
