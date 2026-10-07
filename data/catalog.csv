@@ -1,0 +1,99 @@
+dataset_id,section,title,unit,periodicity,last_modified,rows,first_year,last_year,source_url
+406,investments,Growth rates of investments in fixed assets (annual),percentages,annual,2026-08-27,3536,2010,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_406.json
+432,investments,Structure of investments in fixed assets by types of fixed assets,billion soums,annual,2026-08-06,112,2019,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_432.json
+1326,investments,Volume of investments in fixed assets (annual),billion soums,annual,2026-08-27,3536,2010,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1326.json
+1328,investments,Volume of investments in fixed assets per capita (annual),thousands soums,annual,2026-08-27,3536,2010,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1328.json
+1331,investments,Growth rates of investments in fixed assets (quarterly),percentages,quarterly,2026-07-25,390,2020,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1331.json
+1332,investments,Volume of investments in fixed assets per capita (quarterly),thousand soums,quarterly,2026-07-25,390,2020,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1332.json
+1334,investments,Share of the state budget in investments in fixed assets,percentages,annual,2026-08-06,390,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1334.json
+1336,investments,Share of foreign investments and loans in investments in fixed assets,percentages,annual,2026-08-06,390,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1336.json
+1337,investments,Share of own funds of enterprises and individuals in investments in fixed assets,percentages,annual,2026-08-06,390,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1337.json
+1338,investments,Share of bank loans and other borrowed funds in investments in fixed assets,percentages,annual,2026-08-06,390,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1338.json
+1339,investments,Share of attracted funds in investments in fixed assets,percentages,annual,2026-08-06,390,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1339.json
+1340,investments,Share of investment in fixed assets in GDP,percentages,annual,2026-08-06,26,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1340.json
+1341,investments,Number of student places in commissioned professional colleges,thousand student places,annual,2026-09-03,26,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1341.json
+1342,investments,Number of student places in lyceums,thousand student places,annual,2026-09-03,26,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1342.json
+1561,investments,Volume of investments in fixed assets (quarterly),billion soums,quarterly,2026-07-25,390,2020,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1561.json
+1905,investments,Total area of commissioned housing (annual),thousand square meters,annual,2026-09-03,9503,2010,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1905.json
+1907,investments,Number of student places in commissioned schools (annual),thousand student places,annual,2026-09-03,3536,2010,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1907.json
+1910,investments,Number of beds in commissioned hospitals (annual),beds,annual,2026-09-03,3536,2010,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1910.json
+1913,investments,Number of visits to commissioned polyclinics (annual),visits per shift,annual,2026-09-03,3536,2010,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1913.json
+1285,prices,Consumer price index (to previous month),Percent,monthly,2024-02-06,3696,2010,2020,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1285.json
+1286,prices,Consumer price index by COICOP-2018 (to previous month),Percent,monthly,2024-01-18,1173,2021,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1286.json
+1287,prices,Consumer price index specific weights,Weight fraction,annual,2024-02-15,308,2010,2020,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1287.json
+1288,prices,Consumer price index by COICOP-2018 specific weights,Weight fraction,annual,2026-02-20,102,2021,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1288.json
+1289,prices,Annual consumer price index by type (to December of previous year),Percent,annual,2023-07-12,297,2010,2020,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1289.json
+1290,prices,Annual consumer price index by COICOP-2018 by type (to December of previous year),Percent,annual,2026-01-16,85,2021,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1290.json
+1291,prices,Annual consumer price index by type (to same period of previous year),Percent,annual,2023-07-12,297,2010,2020,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1291.json
+1292,prices,Annual consumer price index by COICOP-2018 by type (to same period of previous year),Percent,annual,2026-01-16,85,2021,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1292.json
+3003,prices,Annual consumer price index (to December of previous year),Percent,annual,2026-01-16,26,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3003.json
+4585,prices,Price index for all goods and services (to previous month) - Republic of Uzbekistan,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4585.json
+4586,prices,Price index for all goods and services (to previous month) - Republic of Karakalpakstan,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4586.json
+4587,prices,Price index for all goods and services (to previous month) - Andijan region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4587.json
+4588,prices,Price index for all goods and services (to previous month) - Bukhara region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4588.json
+4589,prices,Price index for all goods and services (to previous month) - Jizzakh region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4589.json
+4590,prices,Price index for all goods and services (to previous month) - Navoi region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4590.json
+4591,prices,Price index for all goods and services (to previous month) - Kashkadarya region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4591.json
+4592,prices,Price index for all goods and services (to previous month) - Namangan region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4592.json
+4593,prices,Price index for all goods and services (to previous month) - Samarkand region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4593.json
+4594,prices,Price index for all goods and services (to previous month) - Surkhandarya region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4594.json
+4595,prices,Price index for all goods and services (to previous month) - Syrdarya region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4595.json
+4596,prices,Price index for all goods and services (to previous month) - Tashkent region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4596.json
+4597,prices,Price index for all goods and services (to previous month) - Fergana region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4597.json
+4598,prices,Price index for all goods and services (to previous month) - Khorezm region,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4598.json
+4599,prices,Price index for all goods and services (to previous month) - Tashkent city,Percent,monthly,2025-06-15,17820,2024,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4599.json
+4500,prices,Price index for socially significant goods and services (to previous month) - Republic of Uzbekistan,Percent,monthly,2025-04-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4500.json
+4501,prices,Price index for socially significant goods and services (to previous month) - Republic of Karakalpakstan,Percent,monthly,2025-08-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4501.json
+4502,prices,Price index for socially significant goods and services (to previous month) - Andijan region,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4502.json
+4503,prices,Price index for socially significant goods and services (to previous month) - Bukhara region,Percent,monthly,2025-04-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4503.json
+4504,prices,Price index for socially significant goods and services (to previous month) - Jizzakh region,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4504.json
+4505,prices,Price index for socially significant goods and services (to previous month) - Kashkadarya region,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4505.json
+4506,prices,Price index for socially significant goods and services (to previous month) - Navoi region,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4506.json
+4507,prices,Price index for socially significant goods and services (to previous month) - Namangan region,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4507.json
+4508,prices,Price index for socially significant goods and services (to previous month) - Samarkand region,Percent,monthly,2025-04-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4508.json
+4509,prices,Price index for socially significant goods and services (to previous month) - Surkhandarya region,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4509.json
+4510,prices,Price index for socially significant goods and services (to previous month) - Syrdarya region,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4510.json
+4511,prices,Price index for socially significant goods and services (to previous month) - Tashkent region,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4511.json
+4512,prices,Price index for socially significant goods and services (to previous month) - Fergana region,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4512.json
+4513,prices,Price index for socially significant goods and services (to previous month) - Khorezm region,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4513.json
+4514,prices,Price index for socially significant goods and services (to previous month) - Tashkent city,Percent,monthly,2025-07-05,756,2025,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_4514.json
+1294,prices,Annual transport services tariff index (to December of previous year),Percent,annual,2026-01-16,26,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1294.json
+1295,prices,Annual transport services tariff index (to same period of previous year),Percent,annual,2026-01-16,26,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1295.json
+1579,prices,Transport services tariff index (to previous month),Percent,monthly,2025-06-13,1920,2016,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1579.json
+1296,prices,Communication services tariff index (to previous month),Percent,monthly,2025-06-13,384,2016,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1296.json
+1297,prices,Annual communication services tariff index (to December of previous year),Percent,annual,2026-01-16,26,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1297.json
+1298,prices,Annual communication services tariff index (to same period of previous year),Percent,annual,2026-01-16,26,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1298.json
+1301,prices,Price index for fixed-capital investment and construction works (to previous month),Percent,monthly,2025-06-13,12800,2010,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1301.json
+1302,prices,Price index for fixed-capital investment and construction works (to December of previous year),Percent,annual,2026-01-16,16,2010,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1302.json
+1303,prices,Price index for fixed-capital investment and construction works (to same period of previous year),Percent,annual,2026-01-16,16,2010,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1303.json
+1305,prices,Housing market price index (to previous quarter),Percent,quarterly,2026-04-09,255,2022,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1305.json
+1306,prices,Primary housing market price index (to previous quarter),Percent,quarterly,2026-04-09,360,2020,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1306.json
+1307,prices,Secondary housing market price index (to previous quarter),Percent,quarterly,2026-04-09,360,2020,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1307.json
+1314,prices,Export price index (to previous month),Percent,monthly,2024-01-18,10672,2019,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1314.json
+1320,prices,Import price index (to previous month),Percent,monthly,2024-01-18,10672,2019,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1320.json
+1321,prices,Annual export price index (to December of previous year),Percent,annual,2026-02-02,805,2019,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1321.json
+1323,prices,Annual import price index (to December of previous year),Percent,annual,2026-02-02,812,2019,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1323.json
+1576,prices,Industrial producer price index specific weights,Percent,annual,2026-02-16,80,2022,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1576.json
+1577,prices,Annual industrial producer price index (to December of previous year),Weight fraction,annual,2026-01-16,26,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1577.json
+1578,prices,Annual industrial producer price index (to same period of previous year),Percent,annual,2026-01-16,26,2000,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1578.json
+1581,prices,Industrial producer price index (to previous month),Percent,monthly,2025-06-13,2624,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1581.json
+2959,prices,Annual industrial producer price index by type (to December of previous year),Percent,annual,2026-01-16,160,2016,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_2959.json
+2960,prices,Annual industrial producer price index by type (to same period of previous year),Percent,annual,2026-01-16,160,2016,2025,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_2960.json
+2961,prices,Agricultural forestry and fisheries producer price index (to previous quarter),Percent,quarterly,2026-07-10,68,2022,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_2961.json
+1308,prices,Average prices of selected goods in markets and stores,In soums for kilogram,monthly,2024-01-18,2788,2021,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1308.json
+1327,prices,Average prices of selected goods in markets,In soums for kilogram,monthly,2024-01-18,6724,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1327.json
+1329,prices,Average prices of selected goods in stores,In soums for kilogram,monthly,2026-09-15,2856,2021,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_1329.json
+3771,prices,Average market prices of selected goods - Andijan region,In soums for kilogram,monthly,2024-01-18,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3771.json
+3772,prices,Average market prices of selected goods - Bukhara region,In soums for kilogram,monthly,2024-01-18,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3772.json
+3773,prices,Average market prices of selected goods - Jizzakh region,In soums for kilogram,monthly,2024-01-18,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3773.json
+3774,prices,Average market prices of selected goods - Kashkadarya region,In soums for kilogram,monthly,2024-01-18,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3774.json
+3775,prices,Average market prices of selected goods - Navoi region,In soums for kilogram,monthly,2024-01-18,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3775.json
+3776,prices,Average market prices of selected goods - Namangan region,In soums for kilogram,monthly,2024-01-18,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3776.json
+3777,prices,Average market prices of selected goods - Samarkand region,In soums for kilogram,monthly,2024-01-18,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3777.json
+3778,prices,Average market prices of selected goods - Surkhandarya region,In soums for kilogram,monthly,2024-01-18,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3778.json
+3779,prices,Average market prices of selected goods - Syrdarya region,In soums for kilogram,monthly,2024-01-18,6724,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3779.json
+3780,prices,Average market prices of selected goods - Tashkent city,In soums for kilogram,monthly,2024-01-18,6724,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3780.json
+3781,prices,Average market prices of selected goods - Tashkent region,In soums for kilogram,monthly,2024-01-18,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3781.json
+3782,prices,Average market prices of selected goods - Fergana region,In soums for kilogram,monthly,2024-07-15,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3782.json
+3783,prices,Average market prices of selected goods - Khorezm region,In soums for kilogram,monthly,2024-01-18,6888,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3783.json
+3784,prices,Average market prices of selected goods - Republic of Karakalpakstan,In soums for kilogram,monthly,2024-01-18,6724,2013,2026,https://api.siat.stat.uz/media/uploads/sdmx/sdmx_data_3784.json

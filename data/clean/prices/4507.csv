@@ -1,0 +1,757 @@
+code,name_uz,name_ru,name_en,name_uz_cyrillic,period,year,value
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М01,2025,100.56
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М01,2025,100.73
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М01,2025,99.17
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М01,2025,100.0
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М01,2025,101.08
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М01,2025,101.52
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М01,2025,99.77
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М01,2025,100.0
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М01,2025,88.92
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М01,2025,100.97
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М01,2025,101.21
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М01,2025,102.87
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М01,2025,99.4
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М01,2025,102.5
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М01,2025,102.88
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М01,2025,121.18
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М01,2025,98.72
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М01,2025,100.35
+02.115,Sement,Цемент,Cement,Цемент,2025-М01,2025,99.72
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М01,2025,100.03
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М01,2025,100.23
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М01,2025,101.63
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М01,2025,101.49
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М01,2025,102.64
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М01,2025,100.0
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М01,2025,102.88
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М01,2025,91.41
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М01,2025,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М01,2025,100.53
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М01,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М01,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М01,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М01,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М01,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М01,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М01,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М02,2025,100.53
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М02,2025,100.6
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М02,2025,97.05
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М02,2025,96.85
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М02,2025,103.23
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М02,2025,102.59
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М02,2025,99.39
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М02,2025,100.0
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М02,2025,88.02
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М02,2025,100.95
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М02,2025,100.55
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М02,2025,101.76
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М02,2025,130.93
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М02,2025,102.73
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М02,2025,99.28
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М02,2025,88.38
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М02,2025,99.52
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М02,2025,100.28
+02.115,Sement,Цемент,Cement,Цемент,2025-М02,2025,99.02
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М02,2025,99.98
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М02,2025,100.3
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М02,2025,100.3
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М02,2025,101.73
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М02,2025,101.56
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М02,2025,102.51
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М02,2025,100.5
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М02,2025,103.58
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М02,2025,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М02,2025,100.78
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М02,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М02,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М02,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М02,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М02,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М02,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М02,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М03,2025,100.74
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М03,2025,101.37
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М03,2025,97.6
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М03,2025,98.17
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М03,2025,109.06
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М03,2025,109.94
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М03,2025,101.37
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М03,2025,101.9
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М03,2025,100.17
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М03,2025,101.23
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М03,2025,100.19
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М03,2025,100.61
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М03,2025,104.84
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М03,2025,116.37
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М03,2025,101.89
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М03,2025,97.28
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М03,2025,100.55
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М03,2025,100.06
+02.115,Sement,Цемент,Cement,Цемент,2025-М03,2025,98.44
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М03,2025,100.5
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М03,2025,99.7
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М03,2025,100.0
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М03,2025,100.0
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М03,2025,100.0
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М03,2025,100.0
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М03,2025,99.51
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М03,2025,98.03
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М03,2025,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М03,2025,100.44
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М03,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М03,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М03,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М03,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М03,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М03,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М03,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М04,2025,100.9
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М04,2025,100.85
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М04,2025,99.46
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М04,2025,100.47
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М04,2025,102.53
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М04,2025,102.13
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М04,2025,100.74
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М04,2025,101.14
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М04,2025,96.4
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М04,2025,104.22
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М04,2025,103.86
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М04,2025,102.45
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М04,2025,99.02
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М04,2025,106.61
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М04,2025,111.92
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М04,2025,103.72
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М04,2025,100.65
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М04,2025,100.38
+02.115,Sement,Цемент,Cement,Цемент,2025-М04,2025,102.09
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М04,2025,100.0
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М04,2025,100.23
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М04,2025,100.0
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М04,2025,100.0
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М04,2025,100.0
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М04,2025,100.0
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М04,2025,99.4
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М04,2025,90.49
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М04,2025,103.47
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М04,2025,101.83
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М04,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М04,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М04,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М04,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М04,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М04,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М04,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М05,2025,101.5
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М05,2025,99.03
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М05,2025,99.31
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М05,2025,100.0
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М05,2025,100.21
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М05,2025,100.25
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М05,2025,99.45
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М05,2025,100.22
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М05,2025,94.1
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М05,2025,103.35
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М05,2025,102.68
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М05,2025,100.84
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М05,2025,71.42
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М05,2025,115.57
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М05,2025,99.96
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М05,2025,98.64
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М05,2025,101.19
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М05,2025,102.26
+02.115,Sement,Цемент,Cement,Цемент,2025-М05,2025,101.44
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М05,2025,100.77
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М05,2025,99.63
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М05,2025,100.0
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М05,2025,100.0
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М05,2025,99.0
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М05,2025,100.0
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М05,2025,100.97
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М05,2025,98.79
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М05,2025,127.23
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М05,2025,105.54
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М05,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М05,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М05,2025,118.81
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М05,2025,139.15
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М05,2025,125.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М05,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М05,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М06,2025,99.69
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М06,2025,99.04
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М06,2025,99.93
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М06,2025,100.0
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М06,2025,100.26
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М06,2025,100.13
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М06,2025,100.73
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М06,2025,100.0
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М06,2025,104.74
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М06,2025,101.14
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М06,2025,100.4
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М06,2025,100.15
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М06,2025,56.81
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М06,2025,112.25
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М06,2025,99.34
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М06,2025,98.58
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М06,2025,100.67
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М06,2025,100.13
+02.115,Sement,Цемент,Cement,Цемент,2025-М06,2025,100.92
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М06,2025,100.27
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М06,2025,99.17
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М06,2025,100.99
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М06,2025,100.0
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М06,2025,100.02
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М06,2025,100.0
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М06,2025,100.17
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М06,2025,97.17
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М06,2025,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М06,2025,100.32
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М06,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М06,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М06,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М06,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М06,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М06,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М06,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М07,2025,100.06
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М07,2025,98.99
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М07,2025,100.1
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М07,2025,99.84
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М07,2025,101.2
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М07,2025,101.73
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М07,2025,100.51
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М07,2025,100.0
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М07,2025,97.53
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М07,2025,100.58
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М07,2025,100.89
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М07,2025,98.07
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М07,2025,61.0
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М07,2025,98.38
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М07,2025,98.16
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М07,2025,96.13
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М07,2025,100.39
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М07,2025,100.13
+02.115,Sement,Цемент,Cement,Цемент,2025-М07,2025,100.65
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М07,2025,100.4
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М07,2025,100.27
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М07,2025,100.0
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М07,2025,100.0
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М07,2025,100.0
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М07,2025,100.0
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М07,2025,100.51
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М07,2025,103.2
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М07,2025,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М07,2025,102.05
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М07,2025,153.49
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М07,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М07,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М07,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М07,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М07,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М07,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М08,2025,100.36
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М08,2025,100.54
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М08,2025,99.98
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М08,2025,100.0
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М08,2025,100.5
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М08,2025,101.3
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М08,2025,101.33
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М08,2025,100.0
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М08,2025,102.45
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М08,2025,100.93
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М08,2025,100.48
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М08,2025,98.19
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М08,2025,80.62
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М08,2025,97.3
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М08,2025,98.17
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М08,2025,103.16
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М08,2025,100.26
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М08,2025,100.17
+02.115,Sement,Цемент,Cement,Цемент,2025-М08,2025,100.22
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М08,2025,100.14
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М08,2025,100.03
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М08,2025,99.74
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М08,2025,100.38
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М08,2025,100.0
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М08,2025,100.89
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М08,2025,102.21
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М08,2025,100.0
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М08,2025,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М08,2025,100.27
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М08,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М08,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М08,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М08,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М08,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М08,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М08,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М09,2025,100.54
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М09,2025,100.91
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М09,2025,99.14
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М09,2025,99.75
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М09,2025,101.57
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М09,2025,101.57
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М09,2025,101.68
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М09,2025,101.5
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М09,2025,107.07
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М09,2025,101.02
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М09,2025,100.65
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М09,2025,99.79
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М09,2025,115.21
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М09,2025,108.12
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М09,2025,97.32
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М09,2025,99.3
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М09,2025,101.03
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М09,2025,100.28
+02.115,Sement,Цемент,Cement,Цемент,2025-М09,2025,103.94
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М09,2025,100.0
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М09,2025,99.62
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М09,2025,100.98
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М09,2025,100.07
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М09,2025,100.0
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М09,2025,99.94
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М09,2025,101.39
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М09,2025,100.74
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М09,2025,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М09,2025,100.22
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М09,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М09,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М09,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М09,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М09,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М09,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М09,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М10,2025,100.5
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М10,2025,100.83
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М10,2025,98.2
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М10,2025,100.0
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М10,2025,101.79
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М10,2025,101.62
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М10,2025,99.46
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М10,2025,101.13
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М10,2025,103.56
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М10,2025,101.32
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М10,2025,101.01
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М10,2025,99.59
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М10,2025,160.27
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М10,2025,93.23
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М10,2025,94.03
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М10,2025,97.41
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М10,2025,97.14
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М10,2025,100.31
+02.115,Sement,Цемент,Cement,Цемент,2025-М10,2025,101.58
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М10,2025,100.64
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М10,2025,100.19
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М10,2025,100.14
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М10,2025,99.91
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М10,2025,100.0
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М10,2025,100.61
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М10,2025,101.43
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М10,2025,100.62
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М10,2025,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М10,2025,100.15
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М10,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М10,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М10,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М10,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М10,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М10,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М10,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М11,2025,100.64
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М11,2025,100.99
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М11,2025,94.53
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М11,2025,100.17
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М11,2025,100.17
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М11,2025,100.37
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М11,2025,98.74
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М11,2025,100.93
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М11,2025,102.49
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М11,2025,100.47
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М11,2025,100.46
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М11,2025,103.59
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М11,2025,182.42
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М11,2025,74.49
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М11,2025,97.19
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М11,2025,101.05
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М11,2025,98.15
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М11,2025,100.5
+02.115,Sement,Цемент,Cement,Цемент,2025-М11,2025,101.91
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М11,2025,100.0
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М11,2025,100.32
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М11,2025,101.12
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М11,2025,100.86
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М11,2025,99.87
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М11,2025,99.69
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М11,2025,101.37
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М11,2025,106.04
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М11,2025,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М11,2025,100.15
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М11,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М11,2025,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М11,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М11,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М11,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М11,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М11,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2025-М12,2025,101.03
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М12,2025,101.47
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2025-М12,2025,96.73
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2025-М12,2025,100.0
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2025-М12,2025,100.53
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2025-М12,2025,100.37
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2025-М12,2025,100.33
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2025-М12,2025,100.0
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2025-М12,2025,103.27
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2025-М12,2025,100.62
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2025-М12,2025,99.61
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2025-М12,2025,102.35
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2025-М12,2025,125.65
+01.107,Sabzi,Морковь,Carrot,Сабзи,2025-М12,2025,93.4
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2025-М12,2025,100.95
+01.113,Kartoshka,Картофель,Potato,Картошка,2025-М12,2025,100.55
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2025-М12,2025,96.86
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2025-М12,2025,100.27
+02.115,Sement,Цемент,Cement,Цемент,2025-М12,2025,100.53
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2025-М12,2025,100.0
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2025-М12,2025,100.83
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2025-М12,2025,99.73
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2025-М12,2025,99.83
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2025-М12,2025,100.34
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2025-М12,2025,100.49
+02.196,Benzin,Бензин,Gasoline,Бензин,2025-М12,2025,102.75
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2025-М12,2025,102.67
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2025-М12,2025,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2025-М12,2025,101.27
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2025-М12,2025,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2025-М12,2025,130.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2025-М12,2025,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2025-М12,2025,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2025-М12,2025,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2025-М12,2025,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2025-М12,2025,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2026-M01,2026,100.7
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M01,2026,100.7
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2026-M01,2026,98.9
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2026-M01,2026,100.3
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2026-M01,2026,101.0
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2026-M01,2026,101.4
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2026-M01,2026,101.8
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2026-M01,2026,101.1
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2026-M01,2026,100.7
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2026-M01,2026,100.3
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2026-M01,2026,100.3
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2026-M01,2026,102.2
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2026-M01,2026,99.1
+01.107,Sabzi,Морковь,Carrot,Сабзи,2026-M01,2026,101.3
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2026-M01,2026,101.2
+01.113,Kartoshka,Картофель,Potato,Картошка,2026-M01,2026,102.0
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2026-M01,2026,101.0
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M01,2026,100.5
+02.115,Sement,Цемент,Cement,Цемент,2026-M01,2026,100.4
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2026-M01,2026,100.5
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2026-M01,2026,100.4
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2026-M01,2026,99.8
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2026-M01,2026,100.0
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2026-M01,2026,101.1
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2026-M01,2026,100.4
+02.196,Benzin,Бензин,Gasoline,Бензин,2026-M01,2026,100.8
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2026-M01,2026,108.3
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2026-M01,2026,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2026-M01,2026,100.8
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2026-M01,2026,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2026-M01,2026,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2026-M01,2026,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2026-M01,2026,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2026-M01,2026,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2026-M01,2026,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2026-M01,2026,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2026-M02,2026,100.6
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M02,2026,100.9
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2026-M02,2026,99.2
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2026-M02,2026,100.3
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2026-M02,2026,101.6
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2026-M02,2026,103.8
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2026-M02,2026,101.3
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2026-M02,2026,100.0
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2026-M02,2026,101.2
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2026-M02,2026,100.7
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2026-M02,2026,100.5
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2026-M02,2026,103.4
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2026-M02,2026,110.5
+01.107,Sabzi,Морковь,Carrot,Сабзи,2026-M02,2026,101.5
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2026-M02,2026,99.7
+01.113,Kartoshka,Картофель,Potato,Картошка,2026-M02,2026,104.4
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2026-M02,2026,100.8
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M02,2026,100.3
+02.115,Sement,Цемент,Cement,Цемент,2026-M02,2026,100.0
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2026-M02,2026,100.8
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2026-M02,2026,101.0
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2026-M02,2026,100.6
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2026-M02,2026,100.6
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2026-M02,2026,99.7
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2026-M02,2026,100.6
+02.196,Benzin,Бензин,Gasoline,Бензин,2026-M02,2026,98.4
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2026-M02,2026,101.1
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2026-M02,2026,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2026-M02,2026,100.5
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2026-M02,2026,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2026-M02,2026,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2026-M02,2026,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2026-M02,2026,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2026-M02,2026,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2026-M02,2026,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2026-M02,2026,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2026-M03,2026,100.6
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M03,2026,101.2
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2026-M03,2026,99.6
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2026-M03,2026,100.9
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2026-M03,2026,101.8
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2026-M03,2026,101.6
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2026-M03,2026,100.0
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2026-M03,2026,100.0
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2026-M03,2026,101.9
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2026-M03,2026,101.0
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2026-M03,2026,100.9
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2026-M03,2026,106.9
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2026-M03,2026,113.6
+01.107,Sabzi,Морковь,Carrot,Сабзи,2026-M03,2026,99.3
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2026-M03,2026,95.0
+01.113,Kartoshka,Картофель,Potato,Картошка,2026-M03,2026,110.0
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2026-M03,2026,101.2
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M03,2026,100.2
+02.115,Sement,Цемент,Cement,Цемент,2026-M03,2026,100.9
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2026-M03,2026,100.0
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2026-M03,2026,100.1
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2026-M03,2026,101.1
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2026-M03,2026,101.3
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2026-M03,2026,100.8
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2026-M03,2026,100.9
+02.196,Benzin,Бензин,Gasoline,Бензин,2026-M03,2026,98.9
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2026-M03,2026,95.8
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2026-M03,2026,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2026-M03,2026,100.1
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2026-M03,2026,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2026-M03,2026,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2026-M03,2026,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2026-M03,2026,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2026-M03,2026,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2026-M03,2026,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2026-M03,2026,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2026-M04,2026,100.6
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M04,2026,100.9
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2026-M04,2026,99.6
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2026-M04,2026,101.0
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2026-M04,2026,103.5
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2026-M04,2026,104.1
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2026-M04,2026,99.5
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2026-M04,2026,100.0
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2026-M04,2026,96.7
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2026-M04,2026,100.8
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2026-M04,2026,100.6
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2026-M04,2026,103.2
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2026-M04,2026,98.1
+01.107,Sabzi,Морковь,Carrot,Сабзи,2026-M04,2026,102.1
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2026-M04,2026,94.2
+01.113,Kartoshka,Картофель,Potato,Картошка,2026-M04,2026,107.0
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2026-M04,2026,102.2
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M04,2026,100.3
+02.115,Sement,Цемент,Cement,Цемент,2026-M04,2026,101.0
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2026-M04,2026,100.0
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2026-M04,2026,101.1
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2026-M04,2026,100.1
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2026-M04,2026,99.9
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2026-M04,2026,100.3
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2026-M04,2026,99.9
+02.196,Benzin,Бензин,Gasoline,Бензин,2026-M04,2026,102.4
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2026-M04,2026,98.4
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2026-M04,2026,100.8
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2026-M04,2026,100.2
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2026-M04,2026,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2026-M04,2026,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2026-M04,2026,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2026-M04,2026,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2026-M04,2026,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2026-M04,2026,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2026-M04,2026,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2026-M05,2026,100.2
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M05,2026,100.0
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2026-M05,2026,97.6
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2026-M05,2026,101.3
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2026-M05,2026,103.2
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2026-M05,2026,103.1
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2026-M05,2026,98.8
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2026-M05,2026,99.6
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2026-M05,2026,99.7
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2026-M05,2026,101.2
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2026-M05,2026,100.7
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2026-M05,2026,102.8
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2026-M05,2026,66.3
+01.107,Sabzi,Морковь,Carrot,Сабзи,2026-M05,2026,101.9
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2026-M05,2026,97.6
+01.113,Kartoshka,Картофель,Potato,Картошка,2026-M05,2026,99.6
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2026-M05,2026,101.9
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M05,2026,100.3
+02.115,Sement,Цемент,Cement,Цемент,2026-M05,2026,100.8
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2026-M05,2026,100.0
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2026-M05,2026,99.9
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2026-M05,2026,99.9
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2026-M05,2026,99.0
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2026-M05,2026,99.6
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2026-M05,2026,99.3
+02.196,Benzin,Бензин,Gasoline,Бензин,2026-M05,2026,101.2
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2026-M05,2026,102.8
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2026-M05,2026,100.0
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2026-M05,2026,100.3
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2026-M05,2026,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2026-M05,2026,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2026-M05,2026,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2026-M05,2026,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2026-M05,2026,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2026-M05,2026,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2026-M05,2026,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2026-M06,2026,100.6
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M06,2026,98.4
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2026-M06,2026,102.4
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2026-M06,2026,100.3
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2026-M06,2026,100.0
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2026-M06,2026,100.6
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2026-M06,2026,100.4
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2026-M06,2026,101.4
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2026-M06,2026,100.7
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2026-M06,2026,100.6
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2026-M06,2026,100.1
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2026-M06,2026,95.7
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2026-M06,2026,58.1
+01.107,Sabzi,Морковь,Carrot,Сабзи,2026-M06,2026,106.1
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2026-M06,2026,103.6
+01.113,Kartoshka,Картофель,Potato,Картошка,2026-M06,2026,85.7
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2026-M06,2026,100.8
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M06,2026,103.4
+02.115,Sement,Цемент,Cement,Цемент,2026-M06,2026,100.0
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2026-M06,2026,100.1
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2026-M06,2026,100.0
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2026-M06,2026,99.6
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2026-M06,2026,100.1
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2026-M06,2026,100.1
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2026-M06,2026,100.0
+02.196,Benzin,Бензин,Gasoline,Бензин,2026-M06,2026,103.4
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2026-M06,2026,112.2
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2026-M06,2026,107.7
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2026-M06,2026,101.4
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2026-M06,2026,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2026-M06,2026,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2026-M06,2026,109.6
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2026-M06,2026,110.7
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2026-M06,2026,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2026-M06,2026,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2026-M06,2026,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2026-M07,2026,99.8
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M07,2026,99.1
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2026-M07,2026,106.5
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2026-M07,2026,100.2
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2026-M07,2026,99.9
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2026-M07,2026,100.5
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2026-M07,2026,100.2
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2026-M07,2026,100.8
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2026-M07,2026,94.5
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2026-M07,2026,100.1
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2026-M07,2026,100.2
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2026-M07,2026,92.2
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2026-M07,2026,76.3
+01.107,Sabzi,Морковь,Carrot,Сабзи,2026-M07,2026,113.7
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2026-M07,2026,101.7
+01.113,Kartoshka,Картофель,Potato,Картошка,2026-M07,2026,81.8
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2026-M07,2026,101.0
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M07,2026,100.2
+02.115,Sement,Цемент,Cement,Цемент,2026-M07,2026,100.0
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2026-M07,2026,99.6
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2026-M07,2026,100.3
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2026-M07,2026,100.4
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2026-M07,2026,100.2
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2026-M07,2026,100.6
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2026-M07,2026,100.2
+02.196,Benzin,Бензин,Gasoline,Бензин,2026-M07,2026,104.9
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2026-M07,2026,100.1
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2026-M07,2026,100.1
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2026-M07,2026,100.3
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2026-M07,2026,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2026-M07,2026,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2026-M07,2026,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2026-M07,2026,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2026-M07,2026,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2026-M07,2026,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2026-M07,2026,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2026-M08,2026,100.3
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M08,2026,100.4
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2026-M08,2026,102.0
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2026-M08,2026,100.9
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2026-M08,2026,100.5
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2026-M08,2026,100.4
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2026-M08,2026,99.6
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2026-M08,2026,99.4
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2026-M08,2026,100.7
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2026-M08,2026,99.8
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2026-M08,2026,100.2
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2026-M08,2026,96.5
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2026-M08,2026,101.2
+01.107,Sabzi,Морковь,Carrot,Сабзи,2026-M08,2026,109.3
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2026-M08,2026,106.0
+01.113,Kartoshka,Картофель,Potato,Картошка,2026-M08,2026,96.5
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2026-M08,2026,99.3
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M08,2026,100.1
+02.115,Sement,Цемент,Cement,Цемент,2026-M08,2026,100.0
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2026-M08,2026,100.0
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2026-M08,2026,100.3
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2026-M08,2026,99.6
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2026-M08,2026,99.8
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2026-M08,2026,98.9
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2026-M08,2026,100.3
+02.196,Benzin,Бензин,Gasoline,Бензин,2026-M08,2026,101.4
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2026-M08,2026,104.8
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2026-M08,2026,100.1
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2026-M08,2026,100.2
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2026-M08,2026,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2026-M08,2026,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2026-M08,2026,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2026-M08,2026,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2026-M08,2026,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2026-M08,2026,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2026-M08,2026,100.0
+1,YIGʻMA INDEKS,СВОДНЫЙ ИНДЕКС,COMPOSITE INDEX,ЙИҒМА ИНДEКС,2026-M09,2026,100.7
+1.02,OZIQ-OVQAT MAHSULOTLARI,ПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,FOOD PRODUCTS,ОЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M09,2026,101.0
+01.2,Yumaloq boshoqli guruch,Рис круглозерный,Round grain rice,Юмалоқ бошоқли гуруч,2026-M09,2026,100.9
+01.10,Birinchi navli bugʻdoy uni,Мука пшеничная первого сорта,First grade wheat flour,Биринчи навли буғдой уни,2026-M09,2026,100.3
+01.34,Mol goʻshti (suyaksiz goʻshtidan tashqari),Говядина (кроме бескостного мяса),Beef (except boneless meat),Мол гўшти (суяксиз гўштидан ташқари),2026-M09,2026,101.2
+01.36,Qoʻy goʻshti,Баранина,Mutton,Қўй гўшти,2026-M09,2026,101.2
+01.38,Parranda goʻshti (butun tana),Мясо птицы (тушка),Poultry meat (whole carcass),Парранда гўшти (бутун тана),2026-M09,2026,100.5
+01.55,Xom sut (yangi sogʻilgan),Молоко сырое (свежее),Raw milk (fresh),Хом сут (янги соғилган),2026-M09,2026,101.4
+01.71,Tovuq tuxumlari,Яйца куриные,Chicken eggs,Товуқ тухумлари,2026-M09,2026,105.0
+01.72,Paxta moyi,Масло хлопковое,Cottonseed oil,Пахта мойи,2026-M09,2026,100.1
+01.73,Kungaboqar moyi,Масло подсолнечное,Sunflower oil,Кунгабоқар мойи,2026-M09,2026,100.2
+01.82,Olmalar,"Яблоки, свежие","Apples, fresh",Олмалар,2026-M09,2026,98.4
+01.102,Yangi uzilgan pomidorlar,Помидоры свежие,Fresh tomatoes,Янги узилган помидорлар,2026-M09,2026,113.0
+01.107,Sabzi,Морковь,Carrot,Сабзи,2026-M09,2026,113.8
+01.110,Piyoz,Лук репчатый,Onion,Пиёз,2026-M09,2026,103.0
+01.113,Kartoshka,Картофель,Potato,Картошка,2026-M09,2026,105.1
+01.123,Shakar,Сахар-песок,Sugar,Шакар,2026-M09,2026,99.4
+1.03,NOOZIQ-OVQAT MAHSULOTLARI,НЕПРОДОВОЛЬСТВЕННЫЕ ПРОДУКТЫ,NON-FOOD PRODUCTS,НООЗИҚ-ОВҚАТ МАҲСУЛОТЛАРИ,2026-M09,2026,100.2
+02.115,Sement,Цемент,Cement,Цемент,2026-M09,2026,100.0
+02.172,Xoʻjalik sovuni,Мыло хозяйственное,Household soap,Хўжалик совуни,2026-M09,2026,100.0
+02.173,"Kir yuvish kukuni yoki aralashmasi, oqartiruvchi modda va kir yuvish uchun boshqa vositalar","Стиральный порошок или смесь, отбеливатели и прочие средства для стирки","Washing powders or mixtures, bleaches, and other washing agents","Кир ювиш кукуни ёки аралашмаси, оқартирувчи модда ва кир ювиш учун бошқа воситалар",2026-M09,2026,100.3
+02.180,Vitaminlar,Витамины,Vitamins,Витаминлар,2026-M09,2026,100.2
+02.181,Antibiotiklar,Антибиотики,Antibiotics,Антибиотиклар,2026-M09,2026,100.0
+02.183,Tomir kengaytiruvchi preparatlar,Сосудорасширяющие препараты,Vasodilating drugs,Томир кенгайтирувчи препаратлар,2026-M09,2026,99.7
+02.184,Shamollashga qarshi dori vositalari,Противовоспалительные лекарственные средства,Anti-inflammatory drugs,Шамоллашга қарши дори воситалари,2026-M09,2026,100.0
+02.196,Benzin,Бензин,Gasoline,Бензин,2026-M09,2026,101.2
+02.197,Shaxsiy transport vositalari uchun propan,Пропан для личных транспортных средств,Propane for personal vehicles,Шахсий транспорт воситалари учун пропан,2026-M09,2026,105.9
+02.198,Shaxsiy transport vositalari uchun metan,Метан для личных транспортных средств,Methane for personal vehicl,Шахсий транспорт воситалари учун метан,2026-M09,2026,99.7
+1.04,XIZMATLAR,УСЛУГИ,SERVICES,ХИЗМАТЛАР,2026-M09,2026,100.9
+03.10,Sovuq suv va kanalizatsiya uchun haq toʻlash,Холодное водоснабжение и канализация,Cold water supply and sewerage fee,Совуқ сув ва канализация учун ҳақ тўлаш,2026-M09,2026,100.0
+03.11,Maishiy chiqindi uchun haq toʻlash,Плата за вывоз мусора,Garbage collection fee,Маиший чиқинди учун ҳақ тўлаш,2026-M09,2026,100.0
+03.13,Elektr energiyasi uchun haq toʻlash,Плата за электроэнергию,Electricity fee,Электр энергияси учун ҳақ тўлаш,2026-M09,2026,100.0
+03.14,Tarmoq gaz uchun haq toʻlash,Плата за газ сетевой,Network gas fee,Тармоқ газ учун ҳақ тўлаш,2026-M09,2026,100.0
+03.15,Suyultirilgan gaz uchun haq toʻlash,Плата за газ сжиженный,Liquefied gas fee,Суюлтирилган газ учун ҳақ тўлаш,2026-M09,2026,100.0
+03.16,Issiq suv taʼminoti uchun xaq toʻlash,Оплата снабжения горячей водой,Hot water supply fee,Иссиқ сув таъминоти учун хақ тўлаш,2026-M09,2026,100.0
+03.17,Markaziy isitish uchun haq toʻlash,Оплата центрального отопления,Central heating fee,Марказий иситиш учун ҳақ тўлаш,2026-M09,2026,100.0

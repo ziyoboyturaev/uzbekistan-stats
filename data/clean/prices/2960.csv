@@ -1,0 +1,161 @@
+code,name_uz,name_ru,name_en,name_uz_cyrillic,period,year,value
+1000,Yig‘ma indeks,Сводный индекс,Composite index,Йиғма индекс,2016,2016,114.8
+B,Tog`-kon sаnoаti vа ochiq konlаrni ishlаsh,Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,Тоғ-кон саноати ва очиқ конларни ишлаш,2016,2016,106.5
+C,Ishlab chiqarish sanoati,Обрабатывающая промышленность,Manufacturing industry,Ишлаб чиқариш саноати,2016,2016,115.9
+D,"Elektr, gаz, bug` bilаn tа'minlаsh vа hаvoni konditsiyalаsh","Электроснабжение, подача газа, пара и кондиционирование воздуха","Electricity, gas, steam and air conditioning","Электр, газ, буғ билан таъминлаш ва ҳавони кондициялаш",2016,2016,116.6
+E,"Suv bilаn tа'minlаsh; kаnаlizаtsiya tizimi, chiqindilаrni yig`ish vа utilizаtsiya qilish","Водоснабжение; канализация, сбор и утилизация отходов","Water supply; sewerage, waste collection and disposal","Сув билан таъминлаш; канализация тизими, чиқиндиларни йиғиш ва утилизация қилиш",2016,2016,106.4
+10,Oziq-ovqat mahsulotlari ishlab chiqarish,Производство пищевых продуктов,Manufacturing of food products,Озиқ-овқат маҳсулотлари ишлаб чиқариш,2016,2016,114.6
+11,Ichimliklar ishlab chiqarish,Производство напитков,Manufacture of beverages,Ичимликлар ишлаб чиқариш,2016,2016,125.4
+13,To'qimachilik mahsulotlari ishlab chiqarish,Производство текстильных изделий,Manufacture of textiles,Тўқимачилик маҳсулотлари ишлаб чиқариш,2016,2016,117.1
+19,Koks va neftni qayta ishlash mahsulotlari ishlab chiqarish,Производство химической продукции,Manufacture of chemical products,Кокс ва нефтни қайта ишлаш маҳсулотлари ишлаб чиқариш,2016,2016,103.9
+20,Kimyo mahsulotlari ishlab chiqarish,Производство кокса и продуктов нефтепереработки,Manufacture of coke and refined petroleum products,Кимё маҳсулотлари ишлаб чиқариш,2016,2016,112.2
+23,Boshqa nometall mineral mahsulotlar ishlab chiqarish,Производство прочей неметаллической минеральной продукции,Manufacture of other non-metallic mineral products,Бошқа нометалл минерал маҳсулотлар ишлаб чиқариш,2016,2016,124.5
+24,Metallurgiya sanoati,Металлургическая промышленность,Metallurgical industry,Металлургия саноати,2016,2016,115.6
+25,Mashina va uskunalardan tashqari tayyor metall buyumlar ishlab chiqarish,"Производство готовых металлических изделий, кроме машин и оборудования","Manufacture of fabricated metal products, except machinery and equipment",Машина ва ускуналардан ташқари тайёр металл буюмлар ишлаб чиқариш,2016,2016,114.9
+27,Elektr uskunalar ishlab chiqarish,Производство электрического оборудования,Manufacture of electrical equipment,Электр ускуналар ишлаб чиқариш,2016,2016,131.6
+29,"Avtotransport vositalari, treylerlar va yarim pritseplar ishlab chiqarish","Производство автотранспортных средств, трейлеров и полуприцепов","Manufacture of motor vehicles, trailers and semi-trailers","Автотранспорт воситалари, трейлерлар ва ярим прицеплар ишлаб чиқариш",2016,2016,115.9
+7,Metall rudalarni qazib olish,Добыча металлических руд,Mining of metal ores,Металл рудаларни қазиб олиш,2016,2016,104.3
+1000,Yig‘ma indeks,Сводный индекс,Composite index,Йиғма индекс,2017,2017,117.5
+B,Tog`-kon sаnoаti vа ochiq konlаrni ishlаsh,Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,Тоғ-кон саноати ва очиқ конларни ишлаш,2017,2017,109.6
+C,Ishlab chiqarish sanoati,Обрабатывающая промышленность,Manufacturing industry,Ишлаб чиқариш саноати,2017,2017,119.4
+D,"Elektr, gаz, bug` bilаn tа'minlаsh vа hаvoni konditsiyalаsh","Электроснабжение, подача газа, пара и кондиционирование воздуха","Electricity, gas, steam and air conditioning","Электр, газ, буғ билан таъминлаш ва ҳавони кондициялаш",2017,2017,109.0
+E,"Suv bilаn tа'minlаsh; kаnаlizаtsiya tizimi, chiqindilаrni yig`ish vа utilizаtsiya qilish","Водоснабжение; канализация, сбор и утилизация отходов","Water supply; sewerage, waste collection and disposal","Сув билан таъминлаш; канализация тизими, чиқиндиларни йиғиш ва утилизация қилиш",2017,2017,119.2
+10,Oziq-ovqat mahsulotlari ishlab chiqarish,Производство пищевых продуктов,Manufacturing of food products,Озиқ-овқат маҳсулотлари ишлаб чиқариш,2017,2017,107.1
+11,Ichimliklar ishlab chiqarish,Производство напитков,Manufacture of beverages,Ичимликлар ишлаб чиқариш,2017,2017,116.4
+13,To'qimachilik mahsulotlari ishlab chiqarish,Производство текстильных изделий,Manufacture of textiles,Тўқимачилик маҳсулотлари ишлаб чиқариш,2017,2017,123.0
+19,Koks va neftni qayta ishlash mahsulotlari ishlab chiqarish,Производство химической продукции,Manufacture of chemical products,Кокс ва нефтни қайта ишлаш маҳсулотлари ишлаб чиқариш,2017,2017,120.6
+20,Kimyo mahsulotlari ishlab chiqarish,Производство кокса и продуктов нефтепереработки,Manufacture of coke and refined petroleum products,Кимё маҳсулотлари ишлаб чиқариш,2017,2017,115.8
+23,Boshqa nometall mineral mahsulotlar ishlab chiqarish,Производство прочей неметаллической минеральной продукции,Manufacture of other non-metallic mineral products,Бошқа нометалл минерал маҳсулотлар ишлаб чиқариш,2017,2017,107.9
+24,Metallurgiya sanoati,Металлургическая промышленность,Metallurgical industry,Металлургия саноати,2017,2017,152.3
+25,Mashina va uskunalardan tashqari tayyor metall buyumlar ishlab chiqarish,"Производство готовых металлических изделий, кроме машин и оборудования","Manufacture of fabricated metal products, except machinery and equipment",Машина ва ускуналардан ташқари тайёр металл буюмлар ишлаб чиқариш,2017,2017,113.7
+27,Elektr uskunalar ishlab chiqarish,Производство электрического оборудования,Manufacture of electrical equipment,Электр ускуналар ишлаб чиқариш,2017,2017,118.8
+29,"Avtotransport vositalari, treylerlar va yarim pritseplar ishlab chiqarish","Производство автотранспортных средств, трейлеров и полуприцепов","Manufacture of motor vehicles, trailers and semi-trailers","Автотранспорт воситалари, трейлерлар ва ярим прицеплар ишлаб чиқариш",2017,2017,142.6
+7,Metall rudalarni qazib olish,Добыча металлических руд,Mining of metal ores,Металл рудаларни қазиб олиш,2017,2017,98.3
+1000,Yig‘ma indeks,Сводный индекс,Composite index,Йиғма индекс,2018,2018,131.8
+B,Tog`-kon sаnoаti vа ochiq konlаrni ishlаsh,Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,Тоғ-кон саноати ва очиқ конларни ишлаш,2018,2018,124.3
+C,Ishlab chiqarish sanoati,Обрабатывающая промышленность,Manufacturing industry,Ишлаб чиқариш саноати,2018,2018,132.1
+D,"Elektr, gаz, bug` bilаn tа'minlаsh vа hаvoni konditsiyalаsh","Электроснабжение, подача газа, пара и кондиционирование воздуха","Electricity, gas, steam and air conditioning","Электр, газ, буғ билан таъминлаш ва ҳавони кондициялаш",2018,2018,128.1
+E,"Suv bilаn tа'minlаsh; kаnаlizаtsiya tizimi, chiqindilаrni yig`ish vа utilizаtsiya qilish","Водоснабжение; канализация, сбор и утилизация отходов","Water supply; sewerage, waste collection and disposal","Сув билан таъминлаш; канализация тизими, чиқиндиларни йиғиш ва утилизация қилиш",2018,2018,185.8
+10,Oziq-ovqat mahsulotlari ishlab chiqarish,Производство пищевых продуктов,Manufacturing of food products,Озиқ-овқат маҳсулотлари ишлаб чиқариш,2018,2018,114.2
+11,Ichimliklar ishlab chiqarish,Производство напитков,Manufacture of beverages,Ичимликлар ишлаб чиқариш,2018,2018,118.1
+13,To'qimachilik mahsulotlari ishlab chiqarish,Производство текстильных изделий,Manufacture of textiles,Тўқимачилик маҳсулотлари ишлаб чиқариш,2018,2018,142.3
+19,Koks va neftni qayta ishlash mahsulotlari ishlab chiqarish,Производство химической продукции,Manufacture of chemical products,Кокс ва нефтни қайта ишлаш маҳсулотлари ишлаб чиқариш,2018,2018,136.9
+20,Kimyo mahsulotlari ishlab chiqarish,Производство кокса и продуктов нефтепереработки,Manufacture of coke and refined petroleum products,Кимё маҳсулотлари ишлаб чиқариш,2018,2018,135.5
+23,Boshqa nometall mineral mahsulotlar ishlab chiqarish,Производство прочей неметаллической минеральной продукции,Manufacture of other non-metallic mineral products,Бошқа нометалл минерал маҳсулотлар ишлаб чиқариш,2018,2018,130.7
+24,Metallurgiya sanoati,Металлургическая промышленность,Metallurgical industry,Металлургия саноати,2018,2018,156.6
+25,Mashina va uskunalardan tashqari tayyor metall buyumlar ishlab chiqarish,"Производство готовых металлических изделий, кроме машин и оборудования","Manufacture of fabricated metal products, except machinery and equipment",Машина ва ускуналардан ташқари тайёр металл буюмлар ишлаб чиқариш,2018,2018,155.5
+27,Elektr uskunalar ishlab chiqarish,Производство электрического оборудования,Manufacture of electrical equipment,Электр ускуналар ишлаб чиқариш,2018,2018,122.4
+29,"Avtotransport vositalari, treylerlar va yarim pritseplar ishlab chiqarish","Производство автотранспортных средств, трейлеров и полуприцепов","Manufacture of motor vehicles, trailers and semi-trailers","Автотранспорт воситалари, трейлерлар ва ярим прицеплар ишлаб чиқариш",2018,2018,143.4
+7,Metall rudalarni qazib olish,Добыча металлических руд,Mining of metal ores,Металл рудаларни қазиб олиш,2018,2018,100.3
+1000,Yig‘ma indeks,Сводный индекс,Composite index,Йиғма индекс,2019,2019,143.2
+B,Tog`-kon sаnoаti vа ochiq konlаrni ishlаsh,Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,Тоғ-кон саноати ва очиқ конларни ишлаш,2019,2019,217.2
+C,Ishlab chiqarish sanoati,Обрабатывающая промышленность,Manufacturing industry,Ишлаб чиқариш саноати,2019,2019,134.5
+D,"Elektr, gаz, bug` bilаn tа'minlаsh vа hаvoni konditsiyalаsh","Электроснабжение, подача газа, пара и кондиционирование воздуха","Electricity, gas, steam and air conditioning","Электр, газ, буғ билан таъминлаш ва ҳавони кондициялаш",2019,2019,153.8
+E,"Suv bilаn tа'minlаsh; kаnаlizаtsiya tizimi, chiqindilаrni yig`ish vа utilizаtsiya qilish","Водоснабжение; канализация, сбор и утилизация отходов","Water supply; sewerage, waste collection and disposal","Сув билан таъминлаш; канализация тизими, чиқиндиларни йиғиш ва утилизация қилиш",2019,2019,117.0
+10,Oziq-ovqat mahsulotlari ishlab chiqarish,Производство пищевых продуктов,Manufacturing of food products,Озиқ-овқат маҳсулотлари ишлаб чиқариш,2019,2019,124.4
+11,Ichimliklar ishlab chiqarish,Производство напитков,Manufacture of beverages,Ичимликлар ишлаб чиқариш,2019,2019,115.2
+13,To'qimachilik mahsulotlari ishlab chiqarish,Производство текстильных изделий,Manufacture of textiles,Тўқимачилик маҳсулотлари ишлаб чиқариш,2019,2019,123.5
+19,Koks va neftni qayta ishlash mahsulotlari ishlab chiqarish,Производство химической продукции,Manufacture of chemical products,Кокс ва нефтни қайта ишлаш маҳсулотлари ишлаб чиқариш,2019,2019,233.7
+20,Kimyo mahsulotlari ishlab chiqarish,Производство кокса и продуктов нефтепереработки,Manufacture of coke and refined petroleum products,Кимё маҳсулотлари ишлаб чиқариш,2019,2019,163.7
+23,Boshqa nometall mineral mahsulotlar ishlab chiqarish,Производство прочей неметаллической минеральной продукции,Manufacture of other non-metallic mineral products,Бошқа нометалл минерал маҳсулотлар ишлаб чиқариш,2019,2019,111.2
+24,Metallurgiya sanoati,Металлургическая промышленность,Metallurgical industry,Металлургия саноати,2019,2019,186.4
+25,Mashina va uskunalardan tashqari tayyor metall buyumlar ishlab chiqarish,"Производство готовых металлических изделий, кроме машин и оборудования","Manufacture of fabricated metal products, except machinery and equipment",Машина ва ускуналардан ташқари тайёр металл буюмлар ишлаб чиқариш,2019,2019,117.6
+27,Elektr uskunalar ishlab chiqarish,Производство электрического оборудования,Manufacture of electrical equipment,Электр ускуналар ишлаб чиқариш,2019,2019,98.6
+29,"Avtotransport vositalari, treylerlar va yarim pritseplar ishlab chiqarish","Производство автотранспортных средств, трейлеров и полуприцепов","Manufacture of motor vehicles, trailers and semi-trailers","Автотранспорт воситалари, трейлерлар ва ярим прицеплар ишлаб чиқариш",2019,2019,102.6
+7,Metall rudalarni qazib olish,Добыча металлических руд,Mining of metal ores,Металл рудаларни қазиб олиш,2019,2019,0.0
+1000,Yig‘ma indeks,Сводный индекс,Composite index,Йиғма индекс,2020,2020,114.9
+B,Tog`-kon sаnoаti vа ochiq konlаrni ishlаsh,Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,Тоғ-кон саноати ва очиқ конларни ишлаш,2020,2020,119.6
+C,Ishlab chiqarish sanoati,Обрабатывающая промышленность,Manufacturing industry,Ишлаб чиқариш саноати,2020,2020,112.5
+D,"Elektr, gаz, bug` bilаn tа'minlаsh vа hаvoni konditsiyalаsh","Электроснабжение, подача газа, пара и кондиционирование воздуха","Electricity, gas, steam and air conditioning","Электр, газ, буғ билан таъминлаш ва ҳавони кондициялаш",2020,2020,115.7
+E,"Suv bilаn tа'minlаsh; kаnаlizаtsiya tizimi, chiqindilаrni yig`ish vа utilizаtsiya qilish","Водоснабжение; канализация, сбор и утилизация отходов","Water supply; sewerage, waste collection and disposal","Сув билан таъминлаш; канализация тизими, чиқиндиларни йиғиш ва утилизация қилиш",2020,2020,113.4
+10,Oziq-ovqat mahsulotlari ishlab chiqarish,Производство пищевых продуктов,Manufacturing of food products,Озиқ-овқат маҳсулотлари ишлаб чиқариш,2020,2020,115.9
+11,Ichimliklar ishlab chiqarish,Производство напитков,Manufacture of beverages,Ичимликлар ишлаб чиқариш,2020,2020,115.0
+13,To'qimachilik mahsulotlari ishlab chiqarish,Производство текстильных изделий,Manufacture of textiles,Тўқимачилик маҳсулотлари ишлаб чиқариш,2020,2020,108.6
+19,Koks va neftni qayta ishlash mahsulotlari ishlab chiqarish,Производство химической продукции,Manufacture of chemical products,Кокс ва нефтни қайта ишлаш маҳсулотлари ишлаб чиқариш,2020,2020,121.7
+20,Kimyo mahsulotlari ishlab chiqarish,Производство кокса и продуктов нефтепереработки,Manufacture of coke and refined petroleum products,Кимё маҳсулотлари ишлаб чиқариш,2020,2020,97.7
+23,Boshqa nometall mineral mahsulotlar ishlab chiqarish,Производство прочей неметаллической минеральной продукции,Manufacture of other non-metallic mineral products,Бошқа нометалл минерал маҳсулотлар ишлаб чиқариш,2020,2020,110.9
+24,Metallurgiya sanoati,Металлургическая промышленность,Metallurgical industry,Металлургия саноати,2020,2020,131.5
+25,Mashina va uskunalardan tashqari tayyor metall buyumlar ishlab chiqarish,"Производство готовых металлических изделий, кроме машин и оборудования","Manufacture of fabricated metal products, except machinery and equipment",Машина ва ускуналардан ташқари тайёр металл буюмлар ишлаб чиқариш,2020,2020,104.4
+27,Elektr uskunalar ishlab chiqarish,Производство электрического оборудования,Manufacture of electrical equipment,Электр ускуналар ишлаб чиқариш,2020,2020,104.7
+29,"Avtotransport vositalari, treylerlar va yarim pritseplar ishlab chiqarish","Производство автотранспортных средств, трейлеров и полуприцепов","Manufacture of motor vehicles, trailers and semi-trailers","Автотранспорт воситалари, трейлерлар ва ярим прицеплар ишлаб чиқариш",2020,2020,104.6
+7,Metall rudalarni qazib olish,Добыча металлических руд,Mining of metal ores,Металл рудаларни қазиб олиш,2020,2020,0.0
+1000,Yig‘ma indeks,Сводный индекс,Composite index,Йиғма индекс,2021,2021,109.3
+B,Tog`-kon sаnoаti vа ochiq konlаrni ishlаsh,Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,Тоғ-кон саноати ва очиқ конларни ишлаш,2021,2021,98.7
+C,Ishlab chiqarish sanoati,Обрабатывающая промышленность,Manufacturing industry,Ишлаб чиқариш саноати,2021,2021,111.4
+D,"Elektr, gаz, bug` bilаn tа'minlаsh vа hаvoni konditsiyalаsh","Электроснабжение, подача газа, пара и кондиционирование воздуха","Electricity, gas, steam and air conditioning","Электр, газ, буғ билан таъминлаш ва ҳавони кондициялаш",2021,2021,100.0
+E,"Suv bilаn tа'minlаsh; kаnаlizаtsiya tizimi, chiqindilаrni yig`ish vа utilizаtsiya qilish","Водоснабжение; канализация, сбор и утилизация отходов","Water supply; sewerage, waste collection and disposal","Сув билан таъминлаш; канализация тизими, чиқиндиларни йиғиш ва утилизация қилиш",2021,2021,157.9
+10,Oziq-ovqat mahsulotlari ishlab chiqarish,Производство пищевых продуктов,Manufacturing of food products,Озиқ-овқат маҳсулотлари ишлаб чиқариш,2021,2021,106.6
+11,Ichimliklar ishlab chiqarish,Производство напитков,Manufacture of beverages,Ичимликлар ишлаб чиқариш,2021,2021,113.8
+13,To'qimachilik mahsulotlari ishlab chiqarish,Производство текстильных изделий,Manufacture of textiles,Тўқимачилик маҳсулотлари ишлаб чиқариш,2021,2021,114.3
+19,Koks va neftni qayta ishlash mahsulotlari ishlab chiqarish,Производство химической продукции,Manufacture of chemical products,Кокс ва нефтни қайта ишлаш маҳсулотлари ишлаб чиқариш,2021,2021,145.5
+20,Kimyo mahsulotlari ishlab chiqarish,Производство кокса и продуктов нефтепереработки,Manufacture of coke and refined petroleum products,Кимё маҳсулотлари ишлаб чиқариш,2021,2021,123.4
+23,Boshqa nometall mineral mahsulotlar ishlab chiqarish,Производство прочей неметаллической минеральной продукции,Manufacture of other non-metallic mineral products,Бошқа нометалл минерал маҳсулотлар ишлаб чиқариш,2021,2021,106.7
+24,Metallurgiya sanoati,Металлургическая промышленность,Metallurgical industry,Металлургия саноати,2021,2021,113.2
+25,Mashina va uskunalardan tashqari tayyor metall buyumlar ishlab chiqarish,"Производство готовых металлических изделий, кроме машин и оборудования","Manufacture of fabricated metal products, except machinery and equipment",Машина ва ускуналардан ташқари тайёр металл буюмлар ишлаб чиқариш,2021,2021,111.3
+27,Elektr uskunalar ishlab chiqarish,Производство электрического оборудования,Manufacture of electrical equipment,Электр ускуналар ишлаб чиқариш,2021,2021,118.8
+29,"Avtotransport vositalari, treylerlar va yarim pritseplar ishlab chiqarish","Производство автотранспортных средств, трейлеров и полуприцепов","Manufacture of motor vehicles, trailers and semi-trailers","Автотранспорт воситалари, трейлерлар ва ярим прицеплар ишлаб чиқариш",2021,2021,102.4
+7,Metall rudalarni qazib olish,Добыча металлических руд,Mining of metal ores,Металл рудаларни қазиб олиш,2021,2021,125.1
+1000,Yig‘ma indeks,Сводный индекс,Composite index,Йиғма индекс,2022,2022,116.8
+B,Tog`-kon sаnoаti vа ochiq konlаrni ishlаsh,Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,Тоғ-кон саноати ва очиқ конларни ишлаш,2022,2022,126.3
+C,Ishlab chiqarish sanoati,Обрабатывающая промышленность,Manufacturing industry,Ишлаб чиқариш саноати,2022,2022,117.1
+D,"Elektr, gаz, bug` bilаn tа'minlаsh vа hаvoni konditsiyalаsh","Электроснабжение, подача газа, пара и кондиционирование воздуха","Electricity, gas, steam and air conditioning","Электр, газ, буғ билан таъминлаш ва ҳавони кондициялаш",2022,2022,101.4
+E,"Suv bilаn tа'minlаsh; kаnаlizаtsiya tizimi, chiqindilаrni yig`ish vа utilizаtsiya qilish","Водоснабжение; канализация, сбор и утилизация отходов","Water supply; sewerage, waste collection and disposal","Сув билан таъминлаш; канализация тизими, чиқиндиларни йиғиш ва утилизация қилиш",2022,2022,108.5
+10,Oziq-ovqat mahsulotlari ishlab chiqarish,Производство пищевых продуктов,Manufacturing of food products,Озиқ-овқат маҳсулотлари ишлаб чиқариш,2022,2022,124.0
+11,Ichimliklar ishlab chiqarish,Производство напитков,Manufacture of beverages,Ичимликлар ишлаб чиқариш,2022,2022,119.0
+13,To'qimachilik mahsulotlari ishlab chiqarish,Производство текстильных изделий,Manufacture of textiles,Тўқимачилик маҳсулотлари ишлаб чиқариш,2022,2022,126.6
+19,Koks va neftni qayta ishlash mahsulotlari ishlab chiqarish,Производство химической продукции,Manufacture of chemical products,Кокс ва нефтни қайта ишлаш маҳсулотлари ишлаб чиқариш,2022,2022,113.2
+20,Kimyo mahsulotlari ishlab chiqarish,Производство кокса и продуктов нефтепереработки,Manufacture of coke and refined petroleum products,Кимё маҳсулотлари ишлаб чиқариш,2022,2022,122.0
+23,Boshqa nometall mineral mahsulotlar ishlab chiqarish,Производство прочей неметаллической минеральной продукции,Manufacture of other non-metallic mineral products,Бошқа нометалл минерал маҳсулотлар ишлаб чиқариш,2022,2022,111.9
+24,Metallurgiya sanoati,Металлургическая промышленность,Metallurgical industry,Металлургия саноати,2022,2022,107.2
+25,Mashina va uskunalardan tashqari tayyor metall buyumlar ishlab chiqarish,"Производство готовых металлических изделий, кроме машин и оборудования","Manufacture of fabricated metal products, except machinery and equipment",Машина ва ускуналардан ташқари тайёр металл буюмлар ишлаб чиқариш,2022,2022,115.3
+27,Elektr uskunalar ishlab chiqarish,Производство электрического оборудования,Manufacture of electrical equipment,Электр ускуналар ишлаб чиқариш,2022,2022,118.1
+29,"Avtotransport vositalari, treylerlar va yarim pritseplar ishlab chiqarish","Производство автотранспортных средств, трейлеров и полуприцепов","Manufacture of motor vehicles, trailers and semi-trailers","Автотранспорт воситалари, трейлерлар ва ярим прицеплар ишлаб чиқариш",2022,2022,114.2
+7,Metall rudalarni qazib olish,Добыча металлических руд,Mining of metal ores,Металл рудаларни қазиб олиш,2022,2022,180.9
+1000,Yig‘ma indeks,Сводный индекс,Composite index,Йиғма индекс,2023,2023,112.5
+B,Tog`-kon sаnoаti vа ochiq konlаrni ishlаsh,Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,Тоғ-кон саноати ва очиқ конларни ишлаш,2023,2023,118.8
+C,Ishlab chiqarish sanoati,Обрабатывающая промышленность,Manufacturing industry,Ишлаб чиқариш саноати,2023,2023,122.4
+D,"Elektr, gаz, bug` bilаn tа'minlаsh vа hаvoni konditsiyalаsh","Электроснабжение, подача газа, пара и кондиционирование воздуха","Electricity, gas, steam and air conditioning","Электр, газ, буғ билан таъминлаш ва ҳавони кондициялаш",2023,2023,122.5
+E,"Suv bilаn tа'minlаsh; kаnаlizаtsiya tizimi, chiqindilаrni yig`ish vа utilizаtsiya qilish","Водоснабжение; канализация, сбор и утилизация отходов","Water supply; sewerage, waste collection and disposal","Сув билан таъминлаш; канализация тизими, чиқиндиларни йиғиш ва утилизация қилиш",2023,2023,110.2
+10,Oziq-ovqat mahsulotlari ishlab chiqarish,Производство пищевых продуктов,Manufacturing of food products,Озиқ-овқат маҳсулотлари ишлаб чиқариш,2023,2023,117.2
+11,Ichimliklar ishlab chiqarish,Производство напитков,Manufacture of beverages,Ичимликлар ишлаб чиқариш,2023,2023,108.4
+13,To'qimachilik mahsulotlari ishlab chiqarish,Производство текстильных изделий,Manufacture of textiles,Тўқимачилик маҳсулотлари ишлаб чиқариш,2023,2023,93.0
+19,Koks va neftni qayta ishlash mahsulotlari ishlab chiqarish,Производство химической продукции,Manufacture of chemical products,Кокс ва нефтни қайта ишлаш маҳсулотлари ишлаб чиқариш,2023,2023,114.0
+20,Kimyo mahsulotlari ishlab chiqarish,Производство кокса и продуктов нефтепереработки,Manufacture of coke and refined petroleum products,Кимё маҳсулотлари ишлаб чиқариш,2023,2023,107.3
+23,Boshqa nometall mineral mahsulotlar ishlab chiqarish,Производство прочей неметаллической минеральной продукции,Manufacture of other non-metallic mineral products,Бошқа нометалл минерал маҳсулотлар ишлаб чиқариш,2023,2023,101.0
+24,Metallurgiya sanoati,Металлургическая промышленность,Metallurgical industry,Металлургия саноати,2023,2023,106.8
+25,Mashina va uskunalardan tashqari tayyor metall buyumlar ishlab chiqarish,"Производство готовых металлических изделий, кроме машин и оборудования","Manufacture of fabricated metal products, except machinery and equipment",Машина ва ускуналардан ташқари тайёр металл буюмлар ишлаб чиқариш,2023,2023,109.9
+27,Elektr uskunalar ishlab chiqarish,Производство электрического оборудования,Manufacture of electrical equipment,Электр ускуналар ишлаб чиқариш,2023,2023,108.3
+29,"Avtotransport vositalari, treylerlar va yarim pritseplar ishlab chiqarish","Производство автотранспортных средств, трейлеров и полуприцепов","Manufacture of motor vehicles, trailers and semi-trailers","Автотранспорт воситалари, трейлерлар ва ярим прицеплар ишлаб чиқариш",2023,2023,114.9
+7,Metall rudalarni qazib olish,Добыча металлических руд,Mining of metal ores,Металл рудаларни қазиб олиш,2023,2023,110.2
+1000,Yig‘ma indeks,Сводный индекс,Composite index,Йиғма индекс,2024,2024,117.9
+B,Tog`-kon sаnoаti vа ochiq konlаrni ishlаsh,Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,Тоғ-кон саноати ва очиқ конларни ишлаш,2024,2024,115.9
+C,Ishlab chiqarish sanoati,Обрабатывающая промышленность,Manufacturing industry,Ишлаб чиқариш саноати,2024,2024,111.4
+D,"Elektr, gаz, bug` bilаn tа'minlаsh vа hаvoni konditsiyalаsh","Электроснабжение, подача газа, пара и кондиционирование воздуха","Electricity, gas, steam and air conditioning","Электр, газ, буғ билан таъминлаш ва ҳавони кондициялаш",2024,2024,159.0
+E,"Suv bilаn tа'minlаsh; kаnаlizаtsiya tizimi, chiqindilаrni yig`ish vа utilizаtsiya qilish","Водоснабжение; канализация, сбор и утилизация отходов","Water supply; sewerage, waste collection and disposal","Сув билан таъминлаш; канализация тизими, чиқиндиларни йиғиш ва утилизация қилиш",2024,2024,190.0
+10,Oziq-ovqat mahsulotlari ishlab chiqarish,Производство пищевых продуктов,Manufacturing of food products,Озиқ-овқат маҳсулотлари ишлаб чиқариш,2024,2024,107.2
+11,Ichimliklar ishlab chiqarish,Производство напитков,Manufacture of beverages,Ичимликлар ишлаб чиқариш,2024,2024,114.8
+13,To'qimachilik mahsulotlari ishlab chiqarish,Производство текстильных изделий,Manufacture of textiles,Тўқимачилик маҳсулотлари ишлаб чиқариш,2024,2024,100.8
+19,Koks va neftni qayta ishlash mahsulotlari ishlab chiqarish,Производство химической продукции,Manufacture of chemical products,Кокс ва нефтни қайта ишлаш маҳсулотлари ишлаб чиқариш,2024,2024,110.5
+20,Kimyo mahsulotlari ishlab chiqarish,Производство кокса и продуктов нефтепереработки,Manufacture of coke and refined petroleum products,Кимё маҳсулотлари ишлаб чиқариш,2024,2024,103.6
+23,Boshqa nometall mineral mahsulotlar ishlab chiqarish,Производство прочей неметаллической минеральной продукции,Manufacture of other non-metallic mineral products,Бошқа нометалл минерал маҳсулотлар ишлаб чиқариш,2024,2024,105.8
+24,Metallurgiya sanoati,Металлургическая промышленность,Metallurgical industry,Металлургия саноати,2024,2024,119.6
+25,Mashina va uskunalardan tashqari tayyor metall buyumlar ishlab chiqarish,"Производство готовых металлических изделий, кроме машин и оборудования","Manufacture of fabricated metal products, except machinery and equipment",Машина ва ускуналардан ташқари тайёр металл буюмлар ишлаб чиқариш,2024,2024,111.8
+27,Elektr uskunalar ishlab chiqarish,Производство электрического оборудования,Manufacture of electrical equipment,Электр ускуналар ишлаб чиқариш,2024,2024,110.6
+29,"Avtotransport vositalari, treylerlar va yarim pritseplar ishlab chiqarish","Производство автотранспортных средств, трейлеров и полуприцепов","Manufacture of motor vehicles, trailers and semi-trailers","Автотранспорт воситалари, трейлерлар ва ярим прицеплар ишлаб чиқариш",2024,2024,111.1
+7,Metall rudalarni qazib olish,Добыча металлических руд,Mining of metal ores,Металл рудаларни қазиб олиш,2024,2024,128.0
+1000,Yig‘ma indeks,Сводный индекс,Composite index,Йиғма индекс,2025,2025,111.9
+B,Tog`-kon sаnoаti vа ochiq konlаrni ishlаsh,Горнодобывающая промышленность и разработка карьеров,Mining and quarrying,Тоғ-кон саноати ва очиқ конларни ишлаш,2025,2025,105.3
+C,Ishlab chiqarish sanoati,Обрабатывающая промышленность,Manufacturing industry,Ишлаб чиқариш саноати,2025,2025,112.1
+D,"Elektr, gаz, bug` bilаn tа'minlаsh vа hаvoni konditsiyalаsh","Электроснабжение, подача газа, пара и кондиционирование воздуха","Electricity, gas, steam and air conditioning","Электр, газ, буғ билан таъминлаш ва ҳавони кондициялаш",2025,2025,115.8
+E,"Suv bilаn tа'minlаsh; kаnаlizаtsiya tizimi, chiqindilаrni yig`ish vа utilizаtsiya qilish","Водоснабжение; канализация, сбор и утилизация отходов","Water supply; sewerage, waste collection and disposal","Сув билан таъминлаш; канализация тизими, чиқиндиларни йиғиш ва утилизация қилиш",2025,2025,120.5
+10,Oziq-ovqat mahsulotlari ishlab chiqarish,Производство пищевых продуктов,Manufacturing of food products,Озиқ-овқат маҳсулотлари ишлаб чиқариш,2025,2025,102.2
+11,Ichimliklar ishlab chiqarish,Производство напитков,Manufacture of beverages,Ичимликлар ишлаб чиқариш,2025,2025,111.4
+13,To'qimachilik mahsulotlari ishlab chiqarish,Производство текстильных изделий,Manufacture of textiles,Тўқимачилик маҳсулотлари ишлаб чиқариш,2025,2025,103.8
+19,Koks va neftni qayta ishlash mahsulotlari ishlab chiqarish,Производство химической продукции,Manufacture of chemical products,Кокс ва нефтни қайта ишлаш маҳсулотлари ишлаб чиқариш,2025,2025,112.5
+20,Kimyo mahsulotlari ishlab chiqarish,Производство кокса и продуктов нефтепереработки,Manufacture of coke and refined petroleum products,Кимё маҳсулотлари ишлаб чиқариш,2025,2025,117.1
+23,Boshqa nometall mineral mahsulotlar ishlab chiqarish,Производство прочей неметаллической минеральной продукции,Manufacture of other non-metallic mineral products,Бошқа нометалл минерал маҳсулотлар ишлаб чиқариш,2025,2025,105.9
+24,Metallurgiya sanoati,Металлургическая промышленность,Metallurgical industry,Металлургия саноати,2025,2025,133.2
+25,Mashina va uskunalardan tashqari tayyor metall buyumlar ishlab chiqarish,"Производство готовых металлических изделий, кроме машин и оборудования","Manufacture of fabricated metal products, except machinery and equipment",Машина ва ускуналардан ташқари тайёр металл буюмлар ишлаб чиқариш,2025,2025,103.8
+27,Elektr uskunalar ishlab chiqarish,Производство электрического оборудования,Manufacture of electrical equipment,Электр ускуналар ишлаб чиқариш,2025,2025,102.3
+29,"Avtotransport vositalari, treylerlar va yarim pritseplar ishlab chiqarish","Производство автотранспортных средств, трейлеров и полуприцепов","Manufacture of motor vehicles, trailers and semi-trailers","Автотранспорт воситалари, трейлерлар ва ярим прицеплар ишлаб чиқариш",2025,2025,99.3
+7,Metall rudalarni qazib olish,Добыча металлических руд,Mining of metal ores,Металл рудаларни қазиб олиш,2025,2025,114.5
