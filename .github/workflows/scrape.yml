@@ -1,0 +1,49 @@
+name: Scrape and clean stat.uz data
+
+# Runs once when the scripts or dataset list are pushed, and on demand from the
+# Actions tab ("Run workflow"). To update monthly, uncomment the schedule below.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scrape.py"
+      - "clean.py"
+      - "datasets.csv"
+      - ".github/workflows/scrape.yml"
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 6 10 * *"  # 10th of every month, 06:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Download raw data
+        run: python scrape.py
+
+      - name: Clean data
+        run: python clean.py
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898729+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes in data."
+          else
+            git commit -m "Update stat.uz data ($(date -u +%Y-%m-%d))"
+            git push
+          fi

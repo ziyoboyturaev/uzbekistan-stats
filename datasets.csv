@@ -1,0 +1,99 @@
+id,section,title
+406,investments,Growth rates of investments in fixed assets (annual)
+432,investments,Structure of investments in fixed assets by types of fixed assets
+1326,investments,Volume of investments in fixed assets (annual)
+1328,investments,Volume of investments in fixed assets per capita (annual)
+1331,investments,Growth rates of investments in fixed assets (quarterly)
+1332,investments,Volume of investments in fixed assets per capita (quarterly)
+1334,investments,Share of the state budget in investments in fixed assets
+1336,investments,Share of foreign investments and loans in investments in fixed assets
+1337,investments,Share of own funds of enterprises and individuals in investments in fixed assets
+1338,investments,Share of bank loans and other borrowed funds in investments in fixed assets
+1339,investments,Share of attracted funds in investments in fixed assets
+1340,investments,Share of investment in fixed assets in GDP
+1341,investments,Number of student places in commissioned professional colleges
+1342,investments,Number of student places in lyceums
+1561,investments,Volume of investments in fixed assets (quarterly)
+1905,investments,Total area of commissioned housing (annual)
+1907,investments,Number of student places in commissioned schools (annual)
+1910,investments,Number of beds in commissioned hospitals (annual)
+1913,investments,Number of visits to commissioned polyclinics (annual)
+1285,prices,Consumer price index (to previous month)
+1286,prices,Consumer price index by COICOP-2018 (to previous month)
+1287,prices,Consumer price index specific weights
+1288,prices,Consumer price index by COICOP-2018 specific weights
+1289,prices,Annual consumer price index by type (to December of previous year)
+1290,prices,Annual consumer price index by COICOP-2018 by type (to December of previous year)
+1291,prices,Annual consumer price index by type (to same period of previous year)
+1292,prices,Annual consumer price index by COICOP-2018 by type (to same period of previous year)
+3003,prices,Annual consumer price index (to December of previous year)
+4585,prices,Price index for all goods and services (to previous month) - Republic of Uzbekistan
+4586,prices,Price index for all goods and services (to previous month) - Republic of Karakalpakstan
+4587,prices,Price index for all goods and services (to previous month) - Andijan region
+4588,prices,Price index for all goods and services (to previous month) - Bukhara region
+4589,prices,Price index for all goods and services (to previous month) - Jizzakh region
+4590,prices,Price index for all goods and services (to previous month) - Navoi region
+4591,prices,Price index for all goods and services (to previous month) - Kashkadarya region
+4592,prices,Price index for all goods and services (to previous month) - Namangan region
+4593,prices,Price index for all goods and services (to previous month) - Samarkand region
+4594,prices,Price index for all goods and services (to previous month) - Surkhandarya region
+4595,prices,Price index for all goods and services (to previous month) - Syrdarya region
+4596,prices,Price index for all goods and services (to previous month) - Tashkent region
+4597,prices,Price index for all goods and services (to previous month) - Fergana region
+4598,prices,Price index for all goods and services (to previous month) - Khorezm region
+4599,prices,Price index for all goods and services (to previous month) - Tashkent city
+4500,prices,Price index for socially significant goods and services (to previous month) - Republic of Uzbekistan
+4501,prices,Price index for socially significant goods and services (to previous month) - Republic of Karakalpakstan
+4502,prices,Price index for socially significant goods and services (to previous month) - Andijan region
+4503,prices,Price index for socially significant goods and services (to previous month) - Bukhara region
+4504,prices,Price index for socially significant goods and services (to previous month) - Jizzakh region
+4505,prices,Price index for socially significant goods and services (to previous month) - Kashkadarya region
+4506,prices,Price index for socially significant goods and services (to previous month) - Navoi region
+4507,prices,Price index for socially significant goods and services (to previous month) - Namangan region
+4508,prices,Price index for socially significant goods and services (to previous month) - Samarkand region
+4509,prices,Price index for socially significant goods and services (to previous month) - Surkhandarya region
+4510,prices,Price index for socially significant goods and services (to previous month) - Syrdarya region
+4511,prices,Price index for socially significant goods and services (to previous month) - Tashkent region
+4512,prices,Price index for socially significant goods and services (to previous month) - Fergana region
+4513,prices,Price index for socially significant goods and services (to previous month) - Khorezm region
+4514,prices,Price index for socially significant goods and services (to previous month) - Tashkent city
+1294,prices,Annual transport services tariff index (to December of previous year)
+1295,prices,Annual transport services tariff index (to same period of previous year)
+1579,prices,Transport services tariff index (to previous month)
+1296,prices,Communication services tariff index (to previous month)
+1297,prices,Annual communication services tariff index (to December of previous year)
+1298,prices,Annual communication services tariff index (to same period of previous year)
+1301,prices,Price index for fixed-capital investment and construction works (to previous month)
+1302,prices,Price index for fixed-capital investment and construction works (to December of previous year)
+1303,prices,Price index for fixed-capital investment and construction works (to same period of previous year)
+1305,prices,Housing market price index (to previous quarter)
+1306,prices,Primary housing market price index (to previous quarter)
+1307,prices,Secondary housing market price index (to previous quarter)
+1314,prices,Export price index (to previous month)
+1320,prices,Import price index (to previous month)
+1321,prices,Annual export price index (to December of previous year)
+1323,prices,Annual import price index (to December of previous year)
+1576,prices,Industrial producer price index specific weights
+1577,prices,Annual industrial producer price index (to December of previous year)
+1578,prices,Annual industrial producer price index (to same period of previous year)
+1581,prices,Industrial producer price index (to previous month)
+2959,prices,Annual industrial producer price index by type (to December of previous year)
+2960,prices,Annual industrial producer price index by type (to same period of previous year)
+2961,prices,Agricultural forestry and fisheries producer price index (to previous quarter)
+1308,prices,Average prices of selected goods in markets and stores
+1327,prices,Average prices of selected goods in markets
+1329,prices,Average prices of selected goods in stores
+3771,prices,Average market prices of selected goods - Andijan region
+3772,prices,Average market prices of selected goods - Bukhara region
+3773,prices,Average market prices of selected goods - Jizzakh region
+3774,prices,Average market prices of selected goods - Kashkadarya region
+3775,prices,Average market prices of selected goods - Navoi region
+3776,prices,Average market prices of selected goods - Namangan region
+3777,prices,Average market prices of selected goods - Samarkand region
+3778,prices,Average market prices of selected goods - Surkhandarya region
+3779,prices,Average market prices of selected goods - Syrdarya region
+3780,prices,Average market prices of selected goods - Tashkent city
+3781,prices,Average market prices of selected goods - Tashkent region
+3782,prices,Average market prices of selected goods - Fergana region
+3783,prices,Average market prices of selected goods - Khorezm region
+3784,prices,Average market prices of selected goods - Republic of Karakalpakstan
