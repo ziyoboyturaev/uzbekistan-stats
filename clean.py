@@ -26,7 +26,8 @@ RENAME = {
     "Klassifikator_en": "name_en",
     "Klassifikator_uzc": "name_uz_cyrillic",
 }
-STACK_DROP = {"name_uz", "name_ru", "name_uz_cyrillic"}
+ZERO_IS_MISSING = {"prices"}  # a price or price index of 0 means "no data"
+STACK_DROP ={"name_uz", "name_ru", "name_uz_cyrillic"}
 MAX_FILE_BYTES = 90 * 1024 * 1024
 MISSING_MARKERS ={"", "-", "–", "—", "…", "...", "x", "X", "nan", "None", "null"}
 
@@ -50,6 +51,21 @@ def to_number(value):
         return float(text)
     except ValueError:
         return None
+
+
+def normalize_period(raw) -> tuple[str, str]:
+    """Standardise '2024', '2024-Q2', '2024-M1', '2024-М01' (Cyrillic М) to
+    '2024' / '2024-Q2' / '2024-01' and return (period, frequency)."""
+    text = str(raw).strip().upper().replace("М", "M").replace("К", "Q")  # Cyrillic look-alikes
+    match = re.fullmatch(r"(\d{4})-?M(\d{1,2})", text)
+    if match:
+        return f"{match[1]}-{int(match[2]):02d}", "monthly"
+    match = re.fullmatch(r"(\d{4})-?Q(\d)", text)
+    if match:
+        return f"{match[1]}-Q{match[2]}", "quarterly"
+    if re.fullmatch(r"\d{4}", text):
+        return text, "annual"
+    return text, "other"
 
 
 def unpack(payload) -> tuple[list, list]:
@@ -90,16 +106,18 @@ def tidy(data: list) -> pd.DataFrame:
     long = wide.melt(id_vars=id_cols, value_vars=period_cols, var_name="period", value_name="value")
     long = long.rename(columns={c: RENAME.get(c, snake_case(c)) for c in id_cols})
 
-    long["period"] = long["period"].astype(str).str.strip()
+    parsed = long["period"].map(normalize_period)
+    long["period"] = parsed.str[0]
+    long["frequency"] = parsed.str[1]
     long["year"] = long["period"].str[:4].astype(int)
     long["value"] = long["value"].map(to_number)
     long = long.dropna(subset=["value"])
 
-    text_cols = [c for c in long.columns if c not in ("period", "year", "value")]
+    text_cols = [c for c in long.columns if c not in ("period", "frequency", "year", "value")]
     for col in text_cols:
         long[col] = long[col].map(lambda v: re.sub(r"\s+", " ", str(v)).strip() if pd.notna(v) else v)
 
-    ordered = text_cols + ["period", "year", "value"]
+    ordered = text_cols + ["period", "frequency", "year", "value"]
     return long[ordered].drop_duplicates().reset_index(drop=True)
 
 
@@ -116,6 +134,8 @@ def main() -> None:
         metadata, data = unpack(json.loads(raw_path.read_text(encoding="utf-8")))
         meta = metadata_dict(metadata)
         table = tidy(data)
+        if row.section in ZERO_IS_MISSING and not table.empty:
+            table = table[table["value"] != 0].reset_index(drop=True)
         unit = find_meta(meta, "unit", "measure")
 
         out_path = CLEAN_DIR / row.section / f"{row.id}.csv"
@@ -124,8 +144,9 @@ def main() -> None:
 
         if not table.empty:
             # Slim columns: titles and units are in catalog.csv, other languages in per-dataset files
-            extra = [c for c in table.columns if c not in STACK_DROP and c not in ("period", "year", "value")]
-            stacked = table[extra + ["period", "year", "value"]].copy()
+            tail = ["period", "frequency", "year", "value"]
+            extra = [c for c in table.columns if c not in STACK_DROP and c not in tail]
+            stacked = table[extra + tail].copy()
             stacked.insert(0, "dataset_id", row.id)
             stacks.setdefault(row.section, []).append(stacked)
 

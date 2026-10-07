@@ -1,17 +1,17 @@
-code,name_uz,name_ru,name_en,name_uz_cyrillic,period,year,value
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2010,2010,113.1
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2011,2011,116.3
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2012,2012,110.8
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2013,2013,112.0
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2014,2014,111.4
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2015,2015,110.5
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2016,2016,111.8
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2017,2017,136.0
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2018,2018,117.1
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2019,2019,119.0
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2020,2020,109.1
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2021,2021,112.4
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2022,2022,110.3
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2023,2023,108.1
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2024,2024,106.5
-1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2025,2025,103.1
+code,name_uz,name_ru,name_en,name_uz_cyrillic,period,frequency,year,value
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2010,annual,2010,113.1
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2011,annual,2011,116.3
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2012,annual,2012,110.8
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2013,annual,2013,112.0
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2014,annual,2014,111.4
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2015,annual,2015,110.5
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2016,annual,2016,111.8
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2017,annual,2017,136.0
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2018,annual,2018,117.1
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2019,annual,2019,119.0
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2020,annual,2020,109.1
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2021,annual,2021,112.4
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2022,annual,2022,110.3
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2023,annual,2023,108.1
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2024,annual,2024,106.5
+1700,O‘zbekiston Respublikasi,Республика Узбекистан,Republic of Uzbekistan,Ўзбекистон Республикаси,2025,annual,2025,103.1

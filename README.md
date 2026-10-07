@@ -16,11 +16,17 @@ Official statistics of Uzbekistan on **investments in fixed capital** (19 datase
 
 Clean tables are in **long format**: one row per item and period.
 
+```python
+import pandas as pd
+prices = pd.read_csv("data/clean/prices.csv", dtype={"code": str})
+```
+
 | Column | Meaning |
 |---|---|
-| `code` | Statistical classifier code (e.g. `1700` = Republic of Uzbekistan) |
+| `code` | Statistical classifier code (e.g. `1700` = Republic of Uzbekistan); read it as text to keep leading zeros |
 | `name_en`, `name_ru`, `name_uz`, `name_uz_cyrillic` | Region or item name in each language |
-| `period` | Period as published (`2024`, `2024-01`, ...) |
+| `period` | `2024` (annual), `2024-Q2` (quarterly) or `2024-09` (monthly) |
+| `frequency` | `annual`, `quarterly` or `monthly` |
 | `year` | Year of the period |
 | `value` | Numeric value |
 | `dataset_id` | Added in the stacked section tables; look up title and unit in `catalog.csv` |
@@ -29,9 +35,10 @@ Clean tables are in **long format**: one row per item and period.
 
 1. Reshape from wide (one column per period) to long format.
 2. Standardise column names to `snake_case`.
-3. Convert values to numbers (handles `1 234,5`-style formatting); drop missing markers such as `-` and `…`.
-4. Trim stray whitespace in names; remove duplicate rows.
-5. Record each dataset's metadata in `data/catalog.csv`.
+3. Standardise periods: the source mixes `2024-M1`, `2024-M01` and `2024-М01` (Cyrillic М); all become `2024-01`.
+4. Convert values to numbers (handles `1 234,5`-style formatting); drop missing markers such as `-` and `…`. In the prices section, `0` is a placeholder for missing data and is dropped too (in investments, `0` is a real value and is kept).
+5. Trim stray whitespace in names; remove duplicate rows.
+6. Record each dataset's metadata in `data/catalog.csv`.
 
 ## How it runs
 
@@ -50,3 +57,5 @@ To add datasets, add rows to `datasets.csv` (the ID is the number in each datase
 ## Source and license
 
 Source: National Statistics Committee of the Republic of Uzbekistan, [stat.uz](https://stat.uz/en). The data is published under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/); reuse must credit stat.uz.
+
+Note: the consumer price index changed classification in 2021. Dataset `1285` covers 2010–2020; `1286` (COICOP-2018) continues from 2021.

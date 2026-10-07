@@ -1,86 +1,86 @@
-code,name_uz,name_ru,name_en,name_uz_cyrillic,period,year,value
-1,Yig‘ma indeks,Сводный индекс,Cumulative index,Йиғма индекс,2021,2021,110.8
-1.02,Oziq-ovqat mahsulotlari,Продукты питания,Food products,Озиқ-овқат маҳсулотлари,2021,2021,114.3
-1.03,Nooziq-ovqat mahsulotlari,Непродовольственные товары,Non-food products,Ноозиқ-овқат маҳсулотлари,2021,2021,108.3
-1.04,Xizmatlar,Услуги,Services,Хизматлар,2021,2021,108.2
-01,Oziq-ovqat mahsulotlari va spirtsiz ichimliklar,Продукты питания и безалкогольные напитки,Food and non-alcoholic drinks,Озиқ-овқат маҳсулотлари ва спиртсиз ичимликлар,2021,2021,114.4
-02,"Spirtli ichimliklar, tamaki mahsulotlari","Алкогольные напитки, табачные изделия","Alcoholic drinks, tobacco products","Спиртли ичимликлар, тамаки маҳсулотлари",2021,2021,110.6
-03,Kiyim va poyafzal,Одежда и обувь,Clothes and footwear,Кийим ва пояфзал,2021,2021,106.7
-04,"Turar joy xizmatlari, suv, elektr, gaz va boshqa yonilg'i turlari","Жилищные услуги, вода, электричество, газ и другие виды топлива","Housing services, water, electricity, gas and other fuels","Турар жой хизматлари, сув, електр, газ ва бошқа ёнилғи турлари",2021,2021,106.5
-05,"Uy-ro'zg'or asboblari, maishiy texnika va turar joylarga kundalik xizmat ko'rsatish","Предметы домащнего обихода, бытовая техника и текущее обслуживание жилья","Household items, appliances and routine home maintenance","Уй-рўзғор асбоблари, маиший техника ва турар жойларга кундалик хизмат кўрсатиш",2021,2021,108.1
-06,Sog'liqni saqlash,Здравоохранение,Health care,Соғлиқни сақлаш,2021,2021,110.9
-07,Transport,Транспорт,Transport,Транспорт,2021,2021,112.1
-08,Axborot va aloqa,Информация и связь,Information and communication,Aхборот ва алоқа,2021,2021,103.4
-09,"Dam olish, sport va madaniyat","Отдых, Спорт и культура","Recreation, sports and culture","Дам олиш, спорт ва маданият",2021,2021,108.3
-10,Ta'lim sohasidagi xizmatlar,Услуги в области образования,Services in the field of education,Таълим соҳасидаги хизматлар,2021,2021,106.8
-11,Restoranlar va mehmonxonalar xizmatlari,Рестораны и гостиничное обслуживание,Restaurants and hotel services,Ресторанлар ва меҳмонхоналар хизматлари,2021,2021,115.3
-12,Sug'urtalash va moliyaviy xizmatlar,Страхование и финансовые услуги,Insurance and financial services,Суғурталаш ва молиявий хизматлар,2021,2021,102.3
-13,"Maishiy tovarlar va xizmatlar, ijtimoiy himoya va turli tovarlar va xizmatlar","Бытовые товары и услуги, социальная защита и разные товары и услуги","Household goods and services, social protection and miscellaneous goods and services","Маиший товарлар ва хизматлар, ижтимоий ҳимоя ва турли товарлар ва хизматлар",2021,2021,111.0
-1,Yig‘ma indeks,Сводный индекс,Cumulative index,Йиғма индекс,2022,2022,111.4
-1.02,Oziq-ovqat mahsulotlari,Продукты питания,Food products,Озиқ-овқат маҳсулотлари,2022,2022,115.1
-1.03,Nooziq-ovqat mahsulotlari,Непродовольственные товары,Non-food products,Ноозиқ-овқат маҳсулотлари,2022,2022,109.9
-1.04,Xizmatlar,Услуги,Services,Хизматлар,2022,2022,107.0
-01,Oziq-ovqat mahsulotlari va spirtsiz ichimliklar,Продукты питания и безалкогольные напитки,Food and non-alcoholic drinks,Озиқ-овқат маҳсулотлари ва спиртсиз ичимликлар,2022,2022,115.0
-02,"Spirtli ichimliklar, tamaki mahsulotlari","Алкогольные напитки, табачные изделия","Alcoholic drinks, tobacco products","Спиртли ичимликлар, тамаки маҳсулотлари",2022,2022,110.1
-03,Kiyim va poyafzal,Одежда и обувь,Clothes and footwear,Кийим ва пояфзал,2022,2022,108.1
-04,"Turar joy xizmatlari, suv, elektr, gaz va boshqa yonilg'i turlari","Жилищные услуги, вода, электричество, газ и другие виды топлива","Housing services, water, electricity, gas and other fuels","Турар жой хизматлари, сув, електр, газ ва бошқа ёнилғи турлари",2022,2022,103.8
-05,"Uy-ro'zg'or asboblari, maishiy texnika va turar joylarga kundalik xizmat ko'rsatish","Предметы домащнего обихода, бытовая техника и текущее обслуживание жилья","Household items, appliances and routine home maintenance","Уй-рўзғор асбоблари, маиший техника ва турар жойларга кундалик хизмат кўрсатиш",2022,2022,110.7
-06,Sog'liqni saqlash,Здравоохранение,Health care,Соғлиқни сақлаш,2022,2022,111.7
-07,Transport,Транспорт,Transport,Транспорт,2022,2022,111.4
-08,Axborot va aloqa,Информация и связь,Information and communication,Aхборот ва алоқа,2022,2022,102.7
-09,"Dam olish, sport va madaniyat","Отдых, Спорт и культура","Recreation, sports and culture","Дам олиш, спорт ва маданият",2022,2022,113.2
-10,Ta'lim sohasidagi xizmatlar,Услуги в области образования,Services in the field of education,Таълим соҳасидаги хизматлар,2022,2022,107.5
-11,Restoranlar va mehmonxonalar xizmatlari,Рестораны и гостиничное обслуживание,Restaurants and hotel services,Ресторанлар ва меҳмонхоналар хизматлари,2022,2022,119.0
-12,Sug'urtalash va moliyaviy xizmatlar,Страхование и финансовые услуги,Insurance and financial services,Суғурталаш ва молиявий хизматлар,2022,2022,102.4
-13,"Maishiy tovarlar va xizmatlar, ijtimoiy himoya va turli tovarlar va xizmatlar","Бытовые товары и услуги, социальная защита и разные товары и услуги","Household goods and services, social protection and miscellaneous goods and services","Маиший товарлар ва хизматлар, ижтимоий ҳимоя ва турли товарлар ва хизматлар",2022,2022,113.0
-1,Yig‘ma indeks,Сводный индекс,Cumulative index,Йиғма индекс,2023,2023,110.0
-1.02,Oziq-ovqat mahsulotlari,Продукты питания,Food products,Озиқ-овқат маҳсулотлари,2023,2023,112.1
-1.03,Nooziq-ovqat mahsulotlari,Непродовольственные товары,Non-food products,Ноозиқ-овқат маҳсулотлари,2023,2023,108.5
-1.04,Xizmatlar,Услуги,Services,Хизматлар,2023,2023,108.3
-01,Oziq-ovqat mahsulotlari va spirtsiz ichimliklar,Продукты питания и безалкогольные напитки,Food and non-alcoholic drinks,Озиқ-овқат маҳсулотлари ва спиртсиз ичимликлар,2023,2023,111.6
-02,"Spirtli ichimliklar, tamaki mahsulotlari","Алкогольные напитки, табачные изделия","Alcoholic drinks, tobacco products","Спиртли ичимликлар, тамаки маҳсулотлари",2023,2023,110.8
-03,Kiyim va poyafzal,Одежда и обувь,Clothes and footwear,Кийим ва пояфзал,2023,2023,107.1
-04,"Turar joy xizmatlari, suv, elektr, gaz va boshqa yonilg'i turlari","Жилищные услуги, вода, электричество, газ и другие виды топлива","Housing services, water, electricity, gas and other fuels","Турар жой хизматлари, сув, електр, газ ва бошқа ёнилғи турлари",2023,2023,105.2
-05,"Uy-ro'zg'or asboblari, maishiy texnika va turar joylarga kundalik xizmat ko'rsatish","Предметы домащнего обихода, бытовая техника и текущее обслуживание жилья","Household items, appliances and routine home maintenance","Уй-рўзғор асбоблари, маиший техника ва турар жойларга кундалик хизмат кўрсатиш",2023,2023,109.5
-06,Sog'liqni saqlash,Здравоохранение,Health care,Соғлиқни сақлаш,2023,2023,114.3
-07,Transport,Транспорт,Transport,Транспорт,2023,2023,111.4
-08,Axborot va aloqa,Информация и связь,Information and communication,Aхборот ва алоқа,2023,2023,100.1
-09,"Dam olish, sport va madaniyat","Отдых, Спорт и культура","Recreation, sports and culture","Дам олиш, спорт ва маданият",2023,2023,111.3
-10,Ta'lim sohasidagi xizmatlar,Услуги в области образования,Services in the field of education,Таълим соҳасидаги хизматлар,2023,2023,102.8
-11,Restoranlar va mehmonxonalar xizmatlari,Рестораны и гостиничное обслуживание,Restaurants and hotel services,Ресторанлар ва меҳмонхоналар хизматлари,2023,2023,122.9
-12,Sug'urtalash va moliyaviy xizmatlar,Страхование и финансовые услуги,Insurance and financial services,Суғурталаш ва молиявий хизматлар,2023,2023,103.4
-13,"Maishiy tovarlar va xizmatlar, ijtimoiy himoya va turli tovarlar va xizmatlar","Бытовые товары и услуги, социальная защита и разные товары и услуги","Household goods and services, social protection and miscellaneous goods and services","Маиший товарлар ва хизматлар, ижтимоий ҳимоя ва турли товарлар ва хизматлар",2023,2023,111.5
-1,Yig‘ma indeks,Сводный индекс,Cumulative index,Йиғма индекс,2024,2024,109.6
-1.02,Oziq-ovqat mahsulotlari,Продукты питания,Food products,Озиқ-овқат маҳсулотлари,2024,2024,104.6
-1.03,Nooziq-ovqat mahsulotlari,Непродовольственные товары,Non-food products,Ноозиқ-овқат маҳсулотлари,2024,2024,107.9
-1.04,Xizmatlar,Услуги,Services,Хизматлар,2024,2024,121.9
-01,Oziq-ovqat mahsulotlari va spirtsiz ichimliklar,Продукты питания и безалкогольные напитки,Food and non-alcoholic drinks,Озиқ-овқат маҳсулотлари ва спиртсиз ичимликлар,2024,2024,104.1
-02,"Spirtli ichimliklar, tamaki mahsulotlari","Алкогольные напитки, табачные изделия","Alcoholic drinks, tobacco products","Спиртли ичимликлар, тамаки маҳсулотлари",2024,2024,110.6
-03,Kiyim va poyafzal,Одежда и обувь,Clothes and footwear,Кийим ва пояфзал,2024,2024,105.7
-04,"Turar joy xizmatlari, suv, elektr, gaz va boshqa yonilg'i turlari","Жилищные услуги, вода, электричество, газ и другие виды топлива","Housing services, water, electricity, gas and other fuels","Турар жой хизматлари, сув, електр, газ ва бошқа ёнилғи турлари",2024,2024,129.8
-05,"Uy-ro'zg'or asboblari, maishiy texnika va turar joylarga kundalik xizmat ko'rsatish","Предметы домащнего обихода, бытовая техника и текущее обслуживание жилья","Household items, appliances and routine home maintenance","Уй-рўзғор асбоблари, маиший техника ва турар жойларга кундалик хизмат кўрсатиш",2024,2024,106.1
-06,Sog'liqni saqlash,Здравоохранение,Health care,Соғлиқни сақлаш,2024,2024,116.8
-07,Transport,Транспорт,Transport,Транспорт,2024,2024,114.5
-08,Axborot va aloqa,Информация и связь,Information and communication,Aхборот ва алоқа,2024,2024,99.3
-09,"Dam olish, sport va madaniyat","Отдых, Спорт и культура","Recreation, sports and culture","Дам олиш, спорт ва маданият",2024,2024,108.9
-10,Ta'lim sohasidagi xizmatlar,Услуги в области образования,Services in the field of education,Таълим соҳасидаги хизматлар,2024,2024,108.0
-11,Restoranlar va mehmonxonalar xizmatlari,Рестораны и гостиничное обслуживание,Restaurants and hotel services,Ресторанлар ва меҳмонхоналар хизматлари,2024,2024,115.0
-12,Sug'urtalash va moliyaviy xizmatlar,Страхование и финансовые услуги,Insurance and financial services,Суғурталаш ва молиявий хизматлар,2024,2024,103.4
-13,"Maishiy tovarlar va xizmatlar, ijtimoiy himoya va turli tovarlar va xizmatlar","Бытовые товары и услуги, социальная защита и разные товары и услуги","Household goods and services, social protection and miscellaneous goods and services","Маиший товарлар ва хизматлар, ижтимоий ҳимоя ва турли товарлар ва хизматлар",2024,2024,109.2
-1,Yig‘ma indeks,Сводный индекс,Cumulative index,Йиғма индекс,2025,2025,108.8
-1.02,Oziq-ovqat mahsulotlari,Продукты питания,Food products,Озиқ-овқат маҳсулотлари,2025,2025,105.1
-1.03,Nooziq-ovqat mahsulotlari,Непродовольственные товары,Non-food products,Ноозиқ-овқат маҳсулотлари,2025,2025,106.8
-1.04,Xizmatlar,Услуги,Services,Хизматлар,2025,2025,118.6
-01,Oziq-ovqat mahsulotlari va spirtsiz ichimliklar,Продукты питания и безалкогольные напитки,Food and non-alcoholic drinks,Озиқ-овқат маҳсулотлари ва спиртсиз ичимликлар,2025,2025,104.8
-02,"Spirtli ichimliklar, tamaki mahsulotlari","Алкогольные напитки, табачные изделия","Alcoholic drinks, tobacco products","Спиртли ичимликлар, тамаки маҳсулотлари",2025,2025,108.7
-03,Kiyim va poyafzal,Одежда и обувь,Clothes and footwear,Кийим ва пояфзал,2025,2025,104.4
-04,"Turar joy xizmatlari, suv, elektr, gaz va boshqa yonilg'i turlari","Жилищные услуги, вода, электричество, газ и другие виды топлива","Housing services, water, electricity, gas and other fuels","Турар жой хизматлари, сув, електр, газ ва бошқа ёнилғи турлари",2025,2025,121.7
-05,"Uy-ro'zg'or asboblari, maishiy texnika va turar joylarga kundalik xizmat ko'rsatish","Предметы домащнего обихода, бытовая техника и текущее обслуживание жилья","Household items, appliances and routine home maintenance","Уй-рўзғор асбоблари, маиший техника ва турар жойларга кундалик хизмат кўрсатиш",2025,2025,104.7
-06,Sog'liqni saqlash,Здравоохранение,Health care,Соғлиқни сақлаш,2025,2025,111.4
-07,Transport,Транспорт,Transport,Транспорт,2025,2025,113.1
-08,Axborot va aloqa,Информация и связь,Information and communication,Aхборот ва алоқа,2025,2025,106.0
-09,"Dam olish, sport va madaniyat","Отдых, Спорт и культура","Recreation, sports and culture","Дам олиш, спорт ва маданият",2025,2025,107.7
-10,Ta'lim sohasidagi xizmatlar,Услуги в области образования,Services in the field of education,Таълим соҳасидаги хизматлар,2025,2025,112.2
-11,Restoranlar va mehmonxonalar xizmatlari,Рестораны и гостиничное обслуживание,Restaurants and hotel services,Ресторанлар ва меҳмонхоналар хизматлари,2025,2025,111.3
-12,Sug'urtalash va moliyaviy xizmatlar,Страхование и финансовые услуги,Insurance and financial services,Суғурталаш ва молиявий хизматлар,2025,2025,100.9
-13,"Maishiy tovarlar va xizmatlar, ijtimoiy himoya va turli tovarlar va xizmatlar","Бытовые товары и услуги, социальная защита и разные товары и услуги","Household goods and services, social protection and miscellaneous goods and services","Маиший товарлар ва хизматлар, ижтимоий ҳимоя ва турли товарлар ва хизматлар",2025,2025,110.9
+code,name_uz,name_ru,name_en,name_uz_cyrillic,period,frequency,year,value
+1,Yig‘ma indeks,Сводный индекс,Cumulative index,Йиғма индекс,2021,annual,2021,110.8
+1.02,Oziq-ovqat mahsulotlari,Продукты питания,Food products,Озиқ-овқат маҳсулотлари,2021,annual,2021,114.3
+1.03,Nooziq-ovqat mahsulotlari,Непродовольственные товары,Non-food products,Ноозиқ-овқат маҳсулотлари,2021,annual,2021,108.3
+1.04,Xizmatlar,Услуги,Services,Хизматлар,2021,annual,2021,108.2
+01,Oziq-ovqat mahsulotlari va spirtsiz ichimliklar,Продукты питания и безалкогольные напитки,Food and non-alcoholic drinks,Озиқ-овқат маҳсулотлари ва спиртсиз ичимликлар,2021,annual,2021,114.4
+02,"Spirtli ichimliklar, tamaki mahsulotlari","Алкогольные напитки, табачные изделия","Alcoholic drinks, tobacco products","Спиртли ичимликлар, тамаки маҳсулотлари",2021,annual,2021,110.6
+03,Kiyim va poyafzal,Одежда и обувь,Clothes and footwear,Кийим ва пояфзал,2021,annual,2021,106.7
+04,"Turar joy xizmatlari, suv, elektr, gaz va boshqa yonilg'i turlari","Жилищные услуги, вода, электричество, газ и другие виды топлива","Housing services, water, electricity, gas and other fuels","Турар жой хизматлари, сув, електр, газ ва бошқа ёнилғи турлари",2021,annual,2021,106.5
+05,"Uy-ro'zg'or asboblari, maishiy texnika va turar joylarga kundalik xizmat ko'rsatish","Предметы домащнего обихода, бытовая техника и текущее обслуживание жилья","Household items, appliances and routine home maintenance","Уй-рўзғор асбоблари, маиший техника ва турар жойларга кундалик хизмат кўрсатиш",2021,annual,2021,108.1
+06,Sog'liqni saqlash,Здравоохранение,Health care,Соғлиқни сақлаш,2021,annual,2021,110.9
+07,Transport,Транспорт,Transport,Транспорт,2021,annual,2021,112.1
+08,Axborot va aloqa,Информация и связь,Information and communication,Aхборот ва алоқа,2021,annual,2021,103.4
+09,"Dam olish, sport va madaniyat","Отдых, Спорт и культура","Recreation, sports and culture","Дам олиш, спорт ва маданият",2021,annual,2021,108.3
+10,Ta'lim sohasidagi xizmatlar,Услуги в области образования,Services in the field of education,Таълим соҳасидаги хизматлар,2021,annual,2021,106.8
+11,Restoranlar va mehmonxonalar xizmatlari,Рестораны и гостиничное обслуживание,Restaurants and hotel services,Ресторанлар ва меҳмонхоналар хизматлари,2021,annual,2021,115.3
+12,Sug'urtalash va moliyaviy xizmatlar,Страхование и финансовые услуги,Insurance and financial services,Суғурталаш ва молиявий хизматлар,2021,annual,2021,102.3
+13,"Maishiy tovarlar va xizmatlar, ijtimoiy himoya va turli tovarlar va xizmatlar","Бытовые товары и услуги, социальная защита и разные товары и услуги","Household goods and services, social protection and miscellaneous goods and services","Маиший товарлар ва хизматлар, ижтимоий ҳимоя ва турли товарлар ва хизматлар",2021,annual,2021,111.0
+1,Yig‘ma indeks,Сводный индекс,Cumulative index,Йиғма индекс,2022,annual,2022,111.4
+1.02,Oziq-ovqat mahsulotlari,Продукты питания,Food products,Озиқ-овқат маҳсулотлари,2022,annual,2022,115.1
+1.03,Nooziq-ovqat mahsulotlari,Непродовольственные товары,Non-food products,Ноозиқ-овқат маҳсулотлари,2022,annual,2022,109.9
+1.04,Xizmatlar,Услуги,Services,Хизматлар,2022,annual,2022,107.0
+01,Oziq-ovqat mahsulotlari va spirtsiz ichimliklar,Продукты питания и безалкогольные напитки,Food and non-alcoholic drinks,Озиқ-овқат маҳсулотлари ва спиртсиз ичимликлар,2022,annual,2022,115.0
+02,"Spirtli ichimliklar, tamaki mahsulotlari","Алкогольные напитки, табачные изделия","Alcoholic drinks, tobacco products","Спиртли ичимликлар, тамаки маҳсулотлари",2022,annual,2022,110.1
+03,Kiyim va poyafzal,Одежда и обувь,Clothes and footwear,Кийим ва пояфзал,2022,annual,2022,108.1
+04,"Turar joy xizmatlari, suv, elektr, gaz va boshqa yonilg'i turlari","Жилищные услуги, вода, электричество, газ и другие виды топлива","Housing services, water, electricity, gas and other fuels","Турар жой хизматлари, сув, електр, газ ва бошқа ёнилғи турлари",2022,annual,2022,103.8
+05,"Uy-ro'zg'or asboblari, maishiy texnika va turar joylarga kundalik xizmat ko'rsatish","Предметы домащнего обихода, бытовая техника и текущее обслуживание жилья","Household items, appliances and routine home maintenance","Уй-рўзғор асбоблари, маиший техника ва турар жойларга кундалик хизмат кўрсатиш",2022,annual,2022,110.7
+06,Sog'liqni saqlash,Здравоохранение,Health care,Соғлиқни сақлаш,2022,annual,2022,111.7
+07,Transport,Транспорт,Transport,Транспорт,2022,annual,2022,111.4
+08,Axborot va aloqa,Информация и связь,Information and communication,Aхборот ва алоқа,2022,annual,2022,102.7
+09,"Dam olish, sport va madaniyat","Отдых, Спорт и культура","Recreation, sports and culture","Дам олиш, спорт ва маданият",2022,annual,2022,113.2
+10,Ta'lim sohasidagi xizmatlar,Услуги в области образования,Services in the field of education,Таълим соҳасидаги хизматлар,2022,annual,2022,107.5
+11,Restoranlar va mehmonxonalar xizmatlari,Рестораны и гостиничное обслуживание,Restaurants and hotel services,Ресторанлар ва меҳмонхоналар хизматлари,2022,annual,2022,119.0
+12,Sug'urtalash va moliyaviy xizmatlar,Страхование и финансовые услуги,Insurance and financial services,Суғурталаш ва молиявий хизматлар,2022,annual,2022,102.4
+13,"Maishiy tovarlar va xizmatlar, ijtimoiy himoya va turli tovarlar va xizmatlar","Бытовые товары и услуги, социальная защита и разные товары и услуги","Household goods and services, social protection and miscellaneous goods and services","Маиший товарлар ва хизматлар, ижтимоий ҳимоя ва турли товарлар ва хизматлар",2022,annual,2022,113.0
+1,Yig‘ma indeks,Сводный индекс,Cumulative index,Йиғма индекс,2023,annual,2023,110.0
+1.02,Oziq-ovqat mahsulotlari,Продукты питания,Food products,Озиқ-овқат маҳсулотлари,2023,annual,2023,112.1
+1.03,Nooziq-ovqat mahsulotlari,Непродовольственные товары,Non-food products,Ноозиқ-овқат маҳсулотлари,2023,annual,2023,108.5
+1.04,Xizmatlar,Услуги,Services,Хизматлар,2023,annual,2023,108.3
+01,Oziq-ovqat mahsulotlari va spirtsiz ichimliklar,Продукты питания и безалкогольные напитки,Food and non-alcoholic drinks,Озиқ-овқат маҳсулотлари ва спиртсиз ичимликлар,2023,annual,2023,111.6
+02,"Spirtli ichimliklar, tamaki mahsulotlari","Алкогольные напитки, табачные изделия","Alcoholic drinks, tobacco products","Спиртли ичимликлар, тамаки маҳсулотлари",2023,annual,2023,110.8
+03,Kiyim va poyafzal,Одежда и обувь,Clothes and footwear,Кийим ва пояфзал,2023,annual,2023,107.1
+04,"Turar joy xizmatlari, suv, elektr, gaz va boshqa yonilg'i turlari","Жилищные услуги, вода, электричество, газ и другие виды топлива","Housing services, water, electricity, gas and other fuels","Турар жой хизматлари, сув, електр, газ ва бошқа ёнилғи турлари",2023,annual,2023,105.2
+05,"Uy-ro'zg'or asboblari, maishiy texnika va turar joylarga kundalik xizmat ko'rsatish","Предметы домащнего обихода, бытовая техника и текущее обслуживание жилья","Household items, appliances and routine home maintenance","Уй-рўзғор асбоблари, маиший техника ва турар жойларга кундалик хизмат кўрсатиш",2023,annual,2023,109.5
+06,Sog'liqni saqlash,Здравоохранение,Health care,Соғлиқни сақлаш,2023,annual,2023,114.3
+07,Transport,Транспорт,Transport,Транспорт,2023,annual,2023,111.4
+08,Axborot va aloqa,Информация и связь,Information and communication,Aхборот ва алоқа,2023,annual,2023,100.1
+09,"Dam olish, sport va madaniyat","Отдых, Спорт и культура","Recreation, sports and culture","Дам олиш, спорт ва маданият",2023,annual,2023,111.3
+10,Ta'lim sohasidagi xizmatlar,Услуги в области образования,Services in the field of education,Таълим соҳасидаги хизматлар,2023,annual,2023,102.8
+11,Restoranlar va mehmonxonalar xizmatlari,Рестораны и гостиничное обслуживание,Restaurants and hotel services,Ресторанлар ва меҳмонхоналар хизматлари,2023,annual,2023,122.9
+12,Sug'urtalash va moliyaviy xizmatlar,Страхование и финансовые услуги,Insurance and financial services,Суғурталаш ва молиявий хизматлар,2023,annual,2023,103.4
+13,"Maishiy tovarlar va xizmatlar, ijtimoiy himoya va turli tovarlar va xizmatlar","Бытовые товары и услуги, социальная защита и разные товары и услуги","Household goods and services, social protection and miscellaneous goods and services","Маиший товарлар ва хизматлар, ижтимоий ҳимоя ва турли товарлар ва хизматлар",2023,annual,2023,111.5
+1,Yig‘ma indeks,Сводный индекс,Cumulative index,Йиғма индекс,2024,annual,2024,109.6
+1.02,Oziq-ovqat mahsulotlari,Продукты питания,Food products,Озиқ-овқат маҳсулотлари,2024,annual,2024,104.6
+1.03,Nooziq-ovqat mahsulotlari,Непродовольственные товары,Non-food products,Ноозиқ-овқат маҳсулотлари,2024,annual,2024,107.9
+1.04,Xizmatlar,Услуги,Services,Хизматлар,2024,annual,2024,121.9
+01,Oziq-ovqat mahsulotlari va spirtsiz ichimliklar,Продукты питания и безалкогольные напитки,Food and non-alcoholic drinks,Озиқ-овқат маҳсулотлари ва спиртсиз ичимликлар,2024,annual,2024,104.1
+02,"Spirtli ichimliklar, tamaki mahsulotlari","Алкогольные напитки, табачные изделия","Alcoholic drinks, tobacco products","Спиртли ичимликлар, тамаки маҳсулотлари",2024,annual,2024,110.6
+03,Kiyim va poyafzal,Одежда и обувь,Clothes and footwear,Кийим ва пояфзал,2024,annual,2024,105.7
+04,"Turar joy xizmatlari, suv, elektr, gaz va boshqa yonilg'i turlari","Жилищные услуги, вода, электричество, газ и другие виды топлива","Housing services, water, electricity, gas and other fuels","Турар жой хизматлари, сув, електр, газ ва бошқа ёнилғи турлари",2024,annual,2024,129.8
+05,"Uy-ro'zg'or asboblari, maishiy texnika va turar joylarga kundalik xizmat ko'rsatish","Предметы домащнего обихода, бытовая техника и текущее обслуживание жилья","Household items, appliances and routine home maintenance","Уй-рўзғор асбоблари, маиший техника ва турар жойларга кундалик хизмат кўрсатиш",2024,annual,2024,106.1
+06,Sog'liqni saqlash,Здравоохранение,Health care,Соғлиқни сақлаш,2024,annual,2024,116.8
+07,Transport,Транспорт,Transport,Транспорт,2024,annual,2024,114.5
+08,Axborot va aloqa,Информация и связь,Information and communication,Aхборот ва алоқа,2024,annual,2024,99.3
+09,"Dam olish, sport va madaniyat","Отдых, Спорт и культура","Recreation, sports and culture","Дам олиш, спорт ва маданият",2024,annual,2024,108.9
+10,Ta'lim sohasidagi xizmatlar,Услуги в области образования,Services in the field of education,Таълим соҳасидаги хизматлар,2024,annual,2024,108.0
+11,Restoranlar va mehmonxonalar xizmatlari,Рестораны и гостиничное обслуживание,Restaurants and hotel services,Ресторанлар ва меҳмонхоналар хизматлари,2024,annual,2024,115.0
+12,Sug'urtalash va moliyaviy xizmatlar,Страхование и финансовые услуги,Insurance and financial services,Суғурталаш ва молиявий хизматлар,2024,annual,2024,103.4
+13,"Maishiy tovarlar va xizmatlar, ijtimoiy himoya va turli tovarlar va xizmatlar","Бытовые товары и услуги, социальная защита и разные товары и услуги","Household goods and services, social protection and miscellaneous goods and services","Маиший товарлар ва хизматлар, ижтимоий ҳимоя ва турли товарлар ва хизматлар",2024,annual,2024,109.2
+1,Yig‘ma indeks,Сводный индекс,Cumulative index,Йиғма индекс,2025,annual,2025,108.8
+1.02,Oziq-ovqat mahsulotlari,Продукты питания,Food products,Озиқ-овқат маҳсулотлари,2025,annual,2025,105.1
+1.03,Nooziq-ovqat mahsulotlari,Непродовольственные товары,Non-food products,Ноозиқ-овқат маҳсулотлари,2025,annual,2025,106.8
+1.04,Xizmatlar,Услуги,Services,Хизматлар,2025,annual,2025,118.6
+01,Oziq-ovqat mahsulotlari va spirtsiz ichimliklar,Продукты питания и безалкогольные напитки,Food and non-alcoholic drinks,Озиқ-овқат маҳсулотлари ва спиртсиз ичимликлар,2025,annual,2025,104.8
+02,"Spirtli ichimliklar, tamaki mahsulotlari","Алкогольные напитки, табачные изделия","Alcoholic drinks, tobacco products","Спиртли ичимликлар, тамаки маҳсулотлари",2025,annual,2025,108.7
+03,Kiyim va poyafzal,Одежда и обувь,Clothes and footwear,Кийим ва пояфзал,2025,annual,2025,104.4
+04,"Turar joy xizmatlari, suv, elektr, gaz va boshqa yonilg'i turlari","Жилищные услуги, вода, электричество, газ и другие виды топлива","Housing services, water, electricity, gas and other fuels","Турар жой хизматлари, сув, електр, газ ва бошқа ёнилғи турлари",2025,annual,2025,121.7
+05,"Uy-ro'zg'or asboblari, maishiy texnika va turar joylarga kundalik xizmat ko'rsatish","Предметы домащнего обихода, бытовая техника и текущее обслуживание жилья","Household items, appliances and routine home maintenance","Уй-рўзғор асбоблари, маиший техника ва турар жойларга кундалик хизмат кўрсатиш",2025,annual,2025,104.7
+06,Sog'liqni saqlash,Здравоохранение,Health care,Соғлиқни сақлаш,2025,annual,2025,111.4
+07,Transport,Транспорт,Transport,Транспорт,2025,annual,2025,113.1
+08,Axborot va aloqa,Информация и связь,Information and communication,Aхборот ва алоқа,2025,annual,2025,106.0
+09,"Dam olish, sport va madaniyat","Отдых, Спорт и культура","Recreation, sports and culture","Дам олиш, спорт ва маданият",2025,annual,2025,107.7
+10,Ta'lim sohasidagi xizmatlar,Услуги в области образования,Services in the field of education,Таълим соҳасидаги хизматлар,2025,annual,2025,112.2
+11,Restoranlar va mehmonxonalar xizmatlari,Рестораны и гостиничное обслуживание,Restaurants and hotel services,Ресторанлар ва меҳмонхоналар хизматлари,2025,annual,2025,111.3
+12,Sug'urtalash va moliyaviy xizmatlar,Страхование и финансовые услуги,Insurance and financial services,Суғурталаш ва молиявий хизматлар,2025,annual,2025,100.9
+13,"Maishiy tovarlar va xizmatlar, ijtimoiy himoya va turli tovarlar va xizmatlar","Бытовые товары и услуги, социальная защита и разные товары и услуги","Household goods and services, social protection and miscellaneous goods and services","Маиший товарлар ва хизматлар, ижтимоий ҳимоя ва турли товарлар ва хизматлар",2025,annual,2025,110.9
