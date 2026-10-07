@@ -26,7 +26,9 @@ RENAME = {
     "Klassifikator_en": "name_en",
     "Klassifikator_uzc": "name_uz_cyrillic",
 }
-MISSING_MARKERS = {"", "-", "–", "—", "…", "...", "x", "X", "nan", "None", "null"}
+STACK_DROP = {"name_uz", "name_ru", "name_uz_cyrillic"}
+MAX_FILE_BYTES = 90 * 1024 * 1024
+MISSING_MARKERS ={"", "-", "–", "—", "…", "...", "x", "X", "nan", "None", "null"}
 
 
 def snake_case(text: str) -> str:
@@ -121,10 +123,10 @@ def main() -> None:
         table.to_csv(out_path, index=False)
 
         if not table.empty:
-            stacked = table.copy()
-            stacked.insert(0, "dataset_title", row.title)
+            # Slim columns: titles and units are in catalog.csv, other languages in per-dataset files
+            extra = [c for c in table.columns if c not in STACK_DROP and c not in ("period", "year", "value")]
+            stacked = table[extra + ["period", "year", "value"]].copy()
             stacked.insert(0, "dataset_id", row.id)
-            stacked["unit"] = unit
             stacks.setdefault(row.section, []).append(stacked)
 
         catalog.append({
@@ -142,7 +144,14 @@ def main() -> None:
         print(f"{row.id}: {len(table)} rows")
 
     for section, frames in stacks.items():
-        pd.concat(frames, ignore_index=True).to_csv(CLEAN_DIR / f"{section}.csv", index=False)
+        combined = pd.concat(frames, ignore_index=True)
+        out_path = CLEAN_DIR / f"{section}.csv"
+        combined.to_csv(out_path, index=False)
+        if out_path.stat().st_size > MAX_FILE_BYTES:  # GitHub rejects files over 100 MB
+            out_path.unlink()
+            out_path = out_path.with_suffix(".csv.gz")
+            combined.to_csv(out_path, index=False, compression="gzip")
+        print(f"{out_path}: {len(combined)} rows, {out_path.stat().st_size / 1e6:.1f} MB")
 
     pd.DataFrame(catalog).to_csv("data/catalog.csv", index=False)
     print(f"\nCleaned {len(catalog)} datasets.")

@@ -9,8 +9,8 @@ Official statistics of Uzbekistan on **investments in fixed capital** (19 datase
 | Path | Contents |
 |---|---|
 | `data/catalog.csv` | One row per dataset: title, unit, periodicity, last update, row count, year range, source URL |
-| `data/clean/investments.csv` | All investment datasets stacked in one table |
-| `data/clean/prices.csv` | All price datasets stacked in one table |
+| `data/clean/investments.csv` | All investment datasets stacked in one table (English names) |
+| `data/clean/prices.csv` | All price datasets stacked in one table (English names; saved as `.csv.gz` if it would exceed GitHub's 100 MB limit) |
 | `data/clean/<section>/<id>.csv` | One tidy table per dataset |
 | `data/raw/<section>/<id>.json` | Original files, unchanged |
 
@@ -23,7 +23,7 @@ Clean tables are in **long format**: one row per item and period.
 | `period` | Period as published (`2024`, `2024-01`, ...) |
 | `year` | Year of the period |
 | `value` | Numeric value |
-| `dataset_id`, `dataset_title`, `unit` | Added in the stacked section tables |
+| `dataset_id` | Added in the stacked section tables; look up title and unit in `catalog.csv` |
 
 ## Cleaning steps
 
